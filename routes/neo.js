@@ -163,4 +163,11 @@ function rollDraftBoosterDistribution() {
     }
 }
 
+function rollCollectorBoosterDistribution() {
+    var packID = 1;
+    var booster = {
+        
+    }
+}
+
 module.exports = router;
