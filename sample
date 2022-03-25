@@ -1,0 +1,147 @@
+{
+    "all_parts": [
+        {
+            "component": "combo_piece",
+            "id": "bffa36ac-137d-481c-b1b7-76a88ef15d54",
+            "name": "Chishiro, the Shattered Blade",
+            "object": "related_card",
+            "type_line": "Legendary Creature \u2014 Snake Samurai",
+            "uri": "https://api.scryfall.com/cards/bffa36ac-137d-481c-b1b7-76a88ef15d54"
+        },
+        {
+            "component": "token",
+            "id": "c20e427c-efa5-476c-aa33-e3149648d207",
+            "name": "Spirit",
+            "object": "related_card",
+            "type_line": "Token Creature \u2014 Spirit",
+            "uri": "https://api.scryfall.com/cards/c20e427c-efa5-476c-aa33-e3149648d207"
+        }
+    ],
+    "artist": "Lius Lasahido",
+    "artist_ids": [
+        "0a0e9093-ce44-4a69-93a7-09b63e7c330d"
+    ],
+    "booster": false,
+    "border_color": "black",
+    "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+    "cardmarket_id": 608623,
+    "cmc": 4.0,
+    "collector_number": "1",
+    "color_identity": [
+        "G",
+        "R"
+    ],
+    "colors": [
+        "G",
+        "R"
+    ],
+    "digital": false,
+    "edhrec_rank": 9118,
+    "finishes": [
+        "nonfoil",
+        "foil"
+    ],
+    "foil": true,
+    "frame": "2015",
+    "frame_effects": [
+        "legendary"
+    ],
+    "full_art": false,
+    "games": [
+        "paper"
+    ],
+    "highres_image": true,
+    "id": "bffa36ac-137d-481c-b1b7-76a88ef15d54",
+    "illustration_id": "fd3e10d0-ee05-461a-ae58-0b84fc7b9ffb",
+    "image_status": "highres_scan",
+    "image_uris": {
+        "art_crop": "https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.jpg?1644346882",
+        "border_crop": "https://c1.scryfall.com/file/scryfall-cards/border_crop/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.jpg?1644346882",
+        "large": "https://c1.scryfall.com/file/scryfall-cards/large/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.jpg?1644346882",
+        "normal": "https://c1.scryfall.com/file/scryfall-cards/normal/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.jpg?1644346882",
+        "png": "https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.png?1644346882",
+        "small": "https://c1.scryfall.com/file/scryfall-cards/small/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.jpg?1644346882"
+    },
+    "keywords": [],
+    "lang": "en",
+    "layout": "normal",
+    "legalities": {
+        "alchemy": "not_legal",
+        "brawl": "not_legal",
+        "commander": "legal",
+        "duel": "legal",
+        "future": "not_legal",
+        "gladiator": "not_legal",
+        "historic": "not_legal",
+        "historicbrawl": "not_legal",
+        "legacy": "legal",
+        "modern": "not_legal",
+        "oldschool": "not_legal",
+        "pauper": "not_legal",
+        "paupercommander": "not_legal",
+        "penny": "not_legal",
+        "pioneer": "not_legal",
+        "premodern": "not_legal",
+        "standard": "not_legal",
+        "vintage": "legal"
+    },
+    "mana_cost": "{2}{R}{G}",
+    "multiverse_ids": [
+        553668
+    ],
+    "name": "Chishiro, the Shattered Blade",
+    "nonfoil": true,
+    "object": "card",
+    "oracle_id": "c98a4af3-3e58-4927-9a60-d2664cf0b139",
+    "oracle_text": "Whenever an Aura or Equipment enters the battlefield under your control, create a 2/2 red Spirit creature token with menace.\nAt the beginning of your end step, put a +1/+1 counter on each modified creature you control. (Equipment, Auras you control, and counters are modifications.)",
+    "oversized": false,
+    "power": "4",
+    "preview": {
+        "previewed_at": "2022-01-27",
+        "source": "Wizards of the Coast",
+        "source_uri": "https://www.twitch.tv/videos/1277767538"
+    },
+    "prices": {
+        "eur": "0.30",
+        "eur_foil": "0.31",
+        "tix": null,
+        "usd": "0.26",
+        "usd_etched": null,
+        "usd_foil": "0.30"
+    },
+    "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac98a4af3-3e58-4927-9a60-d2664cf0b139&unique=prints",
+    "promo": false,
+    "purchase_uris": {
+        "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Chishiro%2C+the+Shattered+Blade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall",
+        "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Chishiro%2C+the+Shattered+Blade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+        "tcgplayer": "https://www.tcgplayer.com/product/262827?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall"
+    },
+    "rarity": "mythic",
+    "related_uris": {
+        "edhrec": "https://edhrec.com/route/?cc=Chishiro%2C+the+Shattered+Blade",
+        "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=553668",
+        "mtgtop8": "https://mtgtop8.com/search?MD_check=1&SB_check=1&cards=Chishiro%2C+the+Shattered+Blade",
+        "tcgplayer_infinite_articles": "https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Chishiro%2C+the+Shattered+Blade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall",
+        "tcgplayer_infinite_decks": "https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Chishiro%2C+the+Shattered+Blade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall"
+    },
+    "released_at": "2022-02-18",
+    "reprint": false,
+    "reserved": false,
+    "rulings_uri": "https://api.scryfall.com/cards/bffa36ac-137d-481c-b1b7-76a88ef15d54/rulings",
+    "scryfall_set_uri": "https://scryfall.com/sets/nec?utm_source=api",
+    "scryfall_uri": "https://scryfall.com/card/nec/1/chishiro-the-shattered-blade?utm_source=api",
+    "security_stamp": "oval",
+    "set": "nec",
+    "set_id": "5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+    "set_name": "Neon Dynasty Commander",
+    "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anec&unique=prints",
+    "set_type": "commander",
+    "set_uri": "https://api.scryfall.com/sets/5b4d929d-bdf9-4bbf-858e-e248f53325ad",
+    "story_spotlight": false,
+    "tcgplayer_id": 262827,
+    "textless": false,
+    "toughness": "4",
+    "type_line": "Legendary Creature \u2014 Snake Samurai",
+    "uri": "https://api.scryfall.com/cards/bffa36ac-137d-481c-b1b7-76a88ef15d54",
+    "variation": false
+}

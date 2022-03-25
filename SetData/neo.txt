@@ -1,4 +1,3 @@
-neo 0
 neo 1
 neo 2
 neo 3
