@@ -1,0 +1,64 @@
+neo 2 Ao, the Dawn Sky
+neo 42 The Wandering Emperor
+neo 59 Jin-Gitaxias, Progress Tyrant
+neo 60 Kairi, the Swirling Sky
+neo 84 Tezzeret, Betrayer of Flesh
+neo 89 Blade of the Oni
+neo 102 Junji, the Midnight Sky
+neo 114 Nashi, Moon Sage's Scion
+neo 134 Atsushi, the Blazing Sky
+neo 140 Explosive Singularity
+neo 194 Jugan Defends the Temple // Remnant of the Rising Star
+neo 199 Kodama of the West Tree
+neo 200 Kura, the Boundless Sky
+neo 221 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 226 Kaito Shizuki
+neo 227 The Kami War // O-Kagachi Made Manifest
+neo 237 Spirit-Sister's Call
+neo 238 Tamiyo, Compleated Sage
+neo 303 The Wandering Emperor
+neo 304 Tezzeret, Betrayer of Flesh
+neo 305 Kaito Shizuki
+neo 306 Tamiyo, Compleated Sage
+neo 307 Jin-Gitaxias, Progress Tyrant
+neo 308 Tamiyo, Compleated Sage
+neo 316 The Wandering Emperor
+neo 343 Nashi, Moon Sage's Scion
+neo 350 Kaito Shizuki
+neo 359 Jugan Defends the Temple // Remnant of the Rising Star
+neo 361 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 362 The Kami War // O-Kagachi Made Manifest
+neo 371 Jin-Gitaxias, Progress Tyrant
+neo 376 Tezzeret, Betrayer of Flesh
+neo 377 Blade of the Oni
+neo 383 Explosive Singularity
+neo 392 Kodama of the West Tree
+neo 400 Spirit-Sister's Call
+neo 406 Ao, the Dawn Sky
+neo 408 Kairi, the Swirling Sky
+neo 409 Junji, the Midnight Sky
+neo 410 Atsushi, the Blazing Sky
+neo 411 Kura, the Boundless Sky
+neo 418 The Wandering Emperor
+neo 419 Tezzeret, Betrayer of Flesh
+neo 420 Blade of the Oni
+neo 421 Nashi, Moon Sage's Scion
+neo 422 Explosive Singularity
+neo 423 Kodama of the West Tree
+neo 424 Kaito Shizuki
+neo 427 Jin-Gitaxias, Progress Tyrant
+neo 428 Tamiyo, Compleated Sage
+neo 433 Ao, the Dawn Sky
+neo 445 Jin-Gitaxias, Progress Tyrant
+neo 446 Kairi, the Swirling Sky
+neo 453 Blade of the Oni
+neo 456 Junji, the Midnight Sky
+neo 459 Nashi, Moon Sage's Scion
+neo 463 Atsushi, the Blazing Sky
+neo 464 Explosive Singularity
+neo 475 Jugan Defends the Temple // Remnant of the Rising Star
+neo 477 Kodama of the West Tree
+neo 478 Kura, the Boundless Sky
+neo 486 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 489 The Kami War // O-Kagachi Made Manifest
+neo 495 Spirit-Sister's Call

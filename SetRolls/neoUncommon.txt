@@ -1,0 +1,72 @@
+neo 3 Banishing Slash
+neo 5 Blade-Blizzard Kitsune
+neo 6 Born to Drive
+neo 16 Hotshot Mechanic
+neo 18 Imperial Recovery Unit
+neo 35 Selfless Samurai
+neo 37 Sky-Blessed Samurai
+neo 40 Touch the Spirit Realm
+neo 43 When We Were Young
+neo 44 Acquisition Octopus
+neo 45 Anchor to Reality
+neo 47 Awakened Awareness
+neo 49 Covert Technician
+neo 50 Discover the Impossible
+neo 52 Essence Capture
+neo 53 Futurist Operative
+neo 65 Mobilizer Mech
+neo 73 Prosperous Thief
+neo 75 Reality Heist
+neo 76 Replication Specialist
+neo 85 Thirst for Knowledge
+neo 87 Assassin's Ink
+neo 93 Dockside Chef
+neo 95 Dokuchi Silencer
+neo 96 Enormous Energy Blade
+neo 98 Gravelighter
+neo 106 Leech Gauntlet
+neo 110 Malicious Malfunction
+neo 116 Nezumi Prowler
+neo 118 Okiba Salvage
+neo 127 Unforgiving One
+neo 135 Bronzeplate Boar
+neo 137 Dragonspark Reactor
+neo 142 Flame Discharge
+neo 157 Rabbit Battery
+neo 158 Reinforced Ronin
+neo 161 Seismic Wave
+neo 164 Sokenzan Smelter
+neo 165 Tempered in Solitude
+neo 168 Twinshot Sniper
+neo 170 Upriser Renegade
+neo 175 Blossom Prancer
+neo 176 Boon of Boseiju
+neo 185 Generous Visitor
+neo 192 Historian's Wisdom
+neo 198 Kappa Tech-Wrecker
+neo 203 Orochi Merge-Keeper
+neo 204 Roaring Earth
+neo 207 Spinning Wheel Kick
+neo 209 Storyweave
+neo 214 Webspinner Cuff
+neo 215 Asari Captain
+neo 216 Colossal Skyturtle
+neo 218 Enthusiastic Mechanaut
+neo 219 Gloomshrieker
+neo 223 Invigorating Hot Spring
+neo 225 Jukai Naturalist
+neo 230 Oni-Cult Anvil
+neo 231 Prodigy's Prototype
+neo 236 Silver-Fur Master
+neo 240 Bronze Cudgels
+neo 242 Circuit Mender
+neo 243 Containment Construct
+neo 247 High-Speed Hoverbike
+neo 254 Patchwork Automaton
+neo 256 Reito Sentinel
+neo 257 Runaway Trash-Bot
+neo 262 Towashi Guide-Bot
+neo 263 Walking Skyscraper
+neo 270 Mech Hangar
+neo 272 Roadside Reliquary
+neo 275 Secluded Courtyard

@@ -1,0 +1,32 @@
+neo 309 Eiganjo Exemplar
+neo 310 Imperial Subduer
+neo 311 Norika Yamazaki, the Poet
+neo 312 Selfless Samurai
+neo 313 Seven-Tail Mentor
+neo 314 Sky-Blessed Samurai
+neo 315 Sunblade Samurai
+neo 317 Guardians of Oboro
+neo 318 Nezumi Bladeblesser
+neo 319 Akki Ronin
+neo 321 Heiko Yamazaki, the General
+neo 322 Peerless Samurai
+neo 323 Reinforced Ronin
+neo 324 Upriser Renegade
+neo 325 Heir of the Ancient Fang
+neo 326 Jukai Trainee
+neo 327 Asari Captain
+neo 331 Blade-Blizzard Kitsune
+neo 332 Covert Technician
+neo 333 Futurist Operative
+neo 334 Moon-Circuit Hacker
+neo 335 Moonsnare Specialist
+neo 336 Prosperous Thief
+neo 339 Dokuchi Shadow-Walker
+neo 340 Dokuchi Silencer
+neo 341 Inkrise Infiltrator
+neo 342 Mukotai Ambusher
+neo 344 Nezumi Prowler
+neo 346 Coiling Stalker
+neo 347 Fang of Shigeki
+neo 348 Kappa Tech-Wrecker
+neo 353 Silver-Fur Master

@@ -1,0 +1,38 @@
+nec 39 Aerial Surveyor
+nec 40 Drumbellower
+nec 41 Ironsoul Enforcer
+nec 42 Myojin of Blooming Dawn
+nec 43 Organic Extinction
+nec 44 Release to Memory
+nec 45 Swift Reconfiguration
+nec 46 Yoshimaru, Ever Faithful
+nec 47 Access Denied
+nec 48 Cyberdrive Awakener
+nec 49 Imposter Mech
+nec 50 Kappa Cannoneer
+nec 51 Katsumasa, the Animator
+nec 52 Myojin of Cryptic Dreams
+nec 53 Research Thief
+nec 54 Universal Surveillance
+nec 55 Myojin of Grim Betrayal
+nec 56 Ruthless Technomancer
+nec 57 Akki Battle Squad
+nec 58 Collision of Realms
+nec 59 Kami of Celebration
+nec 60 Komainu Battle Armor
+nec 61 Myojin of Roaring Blades
+nec 62 Smoke Spirits' Aid
+nec 63 Unquenchable Fury
+nec 64 Ascendant Acolyte
+nec 65 Concord with the Kami
+nec 66 Go-Shintai of Life's Origin
+nec 67 Kosei, Penitent Warlord
+nec 68 Myojin of Towering Might
+nec 69 One with the Kami
+nec 70 Rampant Rejuvenator
+nec 71 Silkguard
+nec 72 Tanuki Transplanter
+nec 73 Chishiro, the Shattered Blade
+nec 74 Kaima, the Fractured Calm
+nec 75 Kotori, Pilot Prodigy
+nec 76 Shorikai, Genesis Engine

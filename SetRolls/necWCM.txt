@@ -1,0 +1,12 @@
+nec 1 Chishiro, the Shattered Blade
+nec 2 Kotori, Pilot Prodigy
+nec 3 Kaima, the Fractured Calm
+nec 4 Shorikai, Genesis Engine
+nec 32 Yoshimaru, Ever Faithful
+nec 37 Go-Shintai of Life's Origin
+nec 46 Yoshimaru, Ever Faithful
+nec 66 Go-Shintai of Life's Origin
+nec 73 Chishiro, the Shattered Blade
+nec 74 Kaima, the Fractured Calm
+nec 75 Kotori, Pilot Prodigy
+nec 76 Shorikai, Genesis Engine

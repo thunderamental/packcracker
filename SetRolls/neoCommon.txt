@@ -1,0 +1,100 @@
+neo 1 Ancestral Katana
+neo 9 Dragonfly Suit
+neo 10 Eiganjo Exemplar
+neo 15 Golden-Tail Disciple
+neo 17 Imperial Oath
+neo 19 Imperial Subduer
+neo 20 Intercessor's Arrest
+neo 22 Kitsune Ace
+neo 24 Light the Way
+neo 27 Lucky Offering
+neo 30 Mothrider Patrol
+neo 32 Regent's Authority
+neo 33 Repel the Vile
+neo 36 Seven-Tail Mentor
+neo 38 Spirited Companion
+neo 39 Sunblade Samurai
+neo 41 Wanderer's Intervention
+neo 46 Armguard Familiar
+neo 51 Disruption Protocol
+neo 54 Futurist Sentinel
+neo 56 Guardians of Oboro
+neo 63 Mirrorshell Crab
+neo 64 Mnemonic Sphere
+neo 67 Moon-Circuit Hacker
+neo 68 Moonfolk Puzzlemaker
+neo 69 Moonsnare Prototype
+neo 70 Moonsnare Specialist
+neo 71 Network Disruptor
+neo 72 Planar Incision
+neo 77 Saiba Trespassers
+neo 78 Short Circuit
+neo 79 Skyswimmer Koi
+neo 80 Spell Pierce
+neo 81 Suit Up
+neo 83 Tamiyo's Compleation
+neo 90 Chainflail Centipede
+neo 91 Clawing Torment
+neo 92 Debt to the Kami
+neo 94 Dokuchi Shadow-Walker
+neo 100 Inkrise Infiltrator
+neo 103 Kaito's Pursuit
+neo 104 Kami of Restless Shadows
+neo 105 Kami of Terrible Secrets
+neo 107 Lethal Exploit
+neo 112 Mukotai Ambusher
+neo 115 Nezumi Bladeblesser
+neo 119 Reckoner Shakedown
+neo 120 Reckoner's Bargain
+neo 121 Return to Action
+neo 125 Twisted Embrace
+neo 126 Undercity Scrounger
+neo 128 Virus Beetle
+neo 129 You Are Already Dead
+neo 130 Akki Ember-Keeper
+neo 131 Akki Ronin
+neo 132 Akki War Paint
+neo 133 Ambitious Assault
+neo 136 Crackling Emergence
+neo 138 Experimental Synthesizer
+neo 139 Explosive Entry
+neo 143 Gift of Wrath
+neo 148 Ironhoof Boar
+neo 149 Kami of Industry
+neo 150 Kami's Flare
+neo 151 Kindled Fury
+neo 156 Peerless Samurai
+neo 160 Scrapyard Steelbreaker
+neo 163 Simian Sling
+neo 167 Towashi Songshaper
+neo 169 Unstoppable Ogre
+neo 171 Voltage Surge
+neo 173 Bamboo Grove Archer
+neo 174 Bearer of Memory
+neo 178 Careful Cultivation
+neo 179 Coiling Stalker
+neo 180 Commune with Spirits
+neo 182 Fade into Antiquity
+neo 183 Fang of Shigeki
+neo 184 Favor of Jukai
+neo 186 Geothermal Kami
+neo 188 Grafted Growth
+neo 189 Greater Tanuki
+neo 190 Harmonious Emergence
+neo 191 Heir of the Ancient Fang
+neo 195 Jukai Preserver
+neo 196 Jukai Trainee
+neo 202 Master's Rebuke
+neo 205 Season of Renewal
+neo 211 Tamiyo's Safekeeping
+neo 239 Automated Artificer
+neo 241 Brute Suit
+neo 244 Dramatist's Puppet
+neo 246 Ecologist's Terrarium
+neo 248 Iron Apprentice
+neo 251 Network Terminal
+neo 252 Ninja's Kunai
+neo 253 Papercraft Decoy
+neo 258 Searchlight Companion
+neo 259 Shrine Steward
+neo 261 Thundersteel Colossus

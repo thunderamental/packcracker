@@ -1,0 +1,512 @@
+neo 1 Ancestral Katana
+neo 2 Ao, the Dawn Sky
+neo 3 Banishing Slash
+neo 4 Befriending the Moths // Imperial Moth
+neo 5 Blade-Blizzard Kitsune
+neo 6 Born to Drive
+neo 7 Brilliant Restoration
+neo 8 Cloudsteel Kirin
+neo 9 Dragonfly Suit
+neo 10 Eiganjo Exemplar
+neo 11 Era of Enlightenment // Hand of Enlightenment
+neo 12 The Fall of Lord Konda // Fragment of Konda
+neo 13 Farewell
+neo 14 Go-Shintai of Shared Purpose
+neo 15 Golden-Tail Disciple
+neo 16 Hotshot Mechanic
+neo 17 Imperial Oath
+neo 18 Imperial Recovery Unit
+neo 19 Imperial Subduer
+neo 20 Intercessor's Arrest
+neo 21 Invoke Justice
+neo 22 Kitsune Ace
+neo 23 Kyodai, Soul of Kamigawa
+neo 24 Light the Way
+neo 25 Light-Paws, Emperor's Voice
+neo 26 Lion Sash
+neo 27 Lucky Offering
+neo 28 March of Otherworldly Light
+neo 29 Michiko's Reign of Truth // Portrait of Michiko
+neo 30 Mothrider Patrol
+neo 31 Norika Yamazaki, the Poet
+neo 32 Regent's Authority
+neo 33 Repel the Vile
+neo 34 The Restoration of Eiganjo // Architect of Restoration
+neo 35 Selfless Samurai
+neo 36 Seven-Tail Mentor
+neo 37 Sky-Blessed Samurai
+neo 38 Spirited Companion
+neo 39 Sunblade Samurai
+neo 40 Touch the Spirit Realm
+neo 41 Wanderer's Intervention
+neo 42 The Wandering Emperor
+neo 43 When We Were Young
+neo 44 Acquisition Octopus
+neo 45 Anchor to Reality
+neo 46 Armguard Familiar
+neo 47 Awakened Awareness
+neo 48 Behold the Unspeakable // Vision of the Unspeakable
+neo 49 Covert Technician
+neo 50 Discover the Impossible
+neo 51 Disruption Protocol
+neo 52 Essence Capture
+neo 53 Futurist Operative
+neo 54 Futurist Sentinel
+neo 55 Go-Shintai of Lost Wisdom
+neo 56 Guardians of Oboro
+neo 57 Inventive Iteration // Living Breakthrough
+neo 58 Invoke the Winds
+neo 59 Jin-Gitaxias, Progress Tyrant
+neo 60 Kairi, the Swirling Sky
+neo 61 March of Swirling Mist
+neo 62 Mindlink Mech
+neo 63 Mirrorshell Crab
+neo 64 Mnemonic Sphere
+neo 65 Mobilizer Mech
+neo 66 The Modern Age // Vector Glider
+neo 67 Moon-Circuit Hacker
+neo 68 Moonfolk Puzzlemaker
+neo 69 Moonsnare Prototype
+neo 70 Moonsnare Specialist
+neo 71 Network Disruptor
+neo 72 Planar Incision
+neo 73 Prosperous Thief
+neo 74 The Reality Chip
+neo 75 Reality Heist
+neo 76 Replication Specialist
+neo 77 Saiba Trespassers
+neo 78 Short Circuit
+neo 79 Skyswimmer Koi
+neo 80 Spell Pierce
+neo 81 Suit Up
+neo 82 Tameshi, Reality Architect
+neo 83 Tamiyo's Compleation
+neo 84 Tezzeret, Betrayer of Flesh
+neo 85 Thirst for Knowledge
+neo 86 Thousand-Faced Shadow
+neo 87 Assassin's Ink
+neo 88 Biting-Palm Ninja
+neo 89 Blade of the Oni
+neo 90 Chainflail Centipede
+neo 91 Clawing Torment
+neo 92 Debt to the Kami
+neo 93 Dockside Chef
+neo 94 Dokuchi Shadow-Walker
+neo 95 Dokuchi Silencer
+neo 96 Enormous Energy Blade
+neo 97 Go-Shintai of Hidden Cruelty
+neo 98 Gravelighter
+neo 99 Hidetsugu, Devouring Chaos
+neo 100 Inkrise Infiltrator
+neo 101 Invoke Despair
+neo 102 Junji, the Midnight Sky
+neo 103 Kaito's Pursuit
+neo 104 Kami of Restless Shadows
+neo 105 Kami of Terrible Secrets
+neo 106 Leech Gauntlet
+neo 107 Lethal Exploit
+neo 108 Life of Toshiro Umezawa // Memory of Toshiro
+neo 109 The Long Reach of Night // Animus of Night's Reach
+neo 110 Malicious Malfunction
+neo 111 March of Wretched Sorrow
+neo 112 Mukotai Ambusher
+neo 113 Mukotai Soulripper
+neo 114 Nashi, Moon Sage's Scion
+neo 115 Nezumi Bladeblesser
+neo 116 Nezumi Prowler
+neo 117 Okiba Reckoner Raid // Nezumi Road Captain
+neo 118 Okiba Salvage
+neo 119 Reckoner Shakedown
+neo 120 Reckoner's Bargain
+neo 121 Return to Action
+neo 122 Soul Transfer
+neo 123 Tatsunari, Toad Rider
+neo 124 Tribute to Horobi // Echo of Death's Wail
+neo 125 Twisted Embrace
+neo 126 Undercity Scrounger
+neo 127 Unforgiving One
+neo 128 Virus Beetle
+neo 129 You Are Already Dead
+neo 130 Akki Ember-Keeper
+neo 131 Akki Ronin
+neo 132 Akki War Paint
+neo 133 Ambitious Assault
+neo 134 Atsushi, the Blazing Sky
+neo 135 Bronzeplate Boar
+neo 136 Crackling Emergence
+neo 137 Dragonspark Reactor
+neo 138 Experimental Synthesizer
+neo 139 Explosive Entry
+neo 140 Explosive Singularity
+neo 141 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+neo 142 Flame Discharge
+neo 143 Gift of Wrath
+neo 144 Go-Shintai of Ancient Wars
+neo 145 Goro-Goro, Disciple of Ryusei
+neo 146 Heiko Yamazaki, the General
+neo 147 Invoke Calamity
+neo 148 Ironhoof Boar
+neo 149 Kami of Industry
+neo 150 Kami's Flare
+neo 151 Kindled Fury
+neo 152 Kumano Faces Kakkazan // Etching of Kumano
+neo 153 Lizard Blades
+neo 154 March of Reckless Joy
+neo 155 Ogre-Head Helm
+neo 156 Peerless Samurai
+neo 157 Rabbit Battery
+neo 158 Reinforced Ronin
+neo 159 Scrap Welder
+neo 160 Scrapyard Steelbreaker
+neo 161 Seismic Wave
+neo 162 The Shattered States Era // Nameless Conqueror
+neo 163 Simian Sling
+neo 164 Sokenzan Smelter
+neo 165 Tempered in Solitude
+neo 166 Thundering Raiju
+neo 167 Towashi Songshaper
+neo 168 Twinshot Sniper
+neo 169 Unstoppable Ogre
+neo 170 Upriser Renegade
+neo 171 Voltage Surge
+neo 172 Azusa's Many Journeys // Likeness of the Seeker
+neo 173 Bamboo Grove Archer
+neo 174 Bearer of Memory
+neo 175 Blossom Prancer
+neo 176 Boon of Boseiju
+neo 177 Boseiju Reaches Skyward // Branch of Boseiju
+neo 178 Careful Cultivation
+neo 179 Coiling Stalker
+neo 180 Commune with Spirits
+neo 181 The Dragon-Kami Reborn // Dragon-Kami's Egg
+neo 182 Fade into Antiquity
+neo 183 Fang of Shigeki
+neo 184 Favor of Jukai
+neo 185 Generous Visitor
+neo 186 Geothermal Kami
+neo 187 Go-Shintai of Boundless Vigor
+neo 188 Grafted Growth
+neo 189 Greater Tanuki
+neo 190 Harmonious Emergence
+neo 191 Heir of the Ancient Fang
+neo 192 Historian's Wisdom
+neo 193 Invoke the Ancients
+neo 194 Jugan Defends the Temple // Remnant of the Rising Star
+neo 195 Jukai Preserver
+neo 196 Jukai Trainee
+neo 197 Kami of Transience
+neo 198 Kappa Tech-Wrecker
+neo 199 Kodama of the West Tree
+neo 200 Kura, the Boundless Sky
+neo 201 March of Burgeoning Life
+neo 202 Master's Rebuke
+neo 203 Orochi Merge-Keeper
+neo 204 Roaring Earth
+neo 205 Season of Renewal
+neo 206 Shigeki, Jukai Visionary
+neo 207 Spinning Wheel Kick
+neo 208 Spring-Leaf Avenger
+neo 209 Storyweave
+neo 210 Tales of Master Seshiro // Seshiro's Living Legacy
+neo 211 Tamiyo's Safekeeping
+neo 212 Teachings of the Kirin // Kirin-Touched Orochi
+neo 213 Weaver of Harmony
+neo 214 Webspinner Cuff
+neo 215 Asari Captain
+neo 216 Colossal Skyturtle
+neo 217 Eiganjo Uprising
+neo 218 Enthusiastic Mechanaut
+neo 219 Gloomshrieker
+neo 220 Greasefang, Okiba Boss
+neo 221 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 222 Hinata, Dawn-Crowned
+neo 223 Invigorating Hot Spring
+neo 224 Isshin, Two Heavens as One
+neo 225 Jukai Naturalist
+neo 226 Kaito Shizuki
+neo 227 The Kami War // O-Kagachi Made Manifest
+neo 228 Kotose, the Silent Spider
+neo 229 Naomi, Pillar of Order
+neo 230 Oni-Cult Anvil
+neo 231 Prodigy's Prototype
+neo 232 Raiyuu, Storm's Edge
+neo 233 Risona, Asari Commander
+neo 234 Satoru Umezawa
+neo 235 Satsuki, the Living Lore
+neo 236 Silver-Fur Master
+neo 237 Spirit-Sister's Call
+neo 238 Tamiyo, Compleated Sage
+neo 239 Automated Artificer
+neo 240 Bronze Cudgels
+neo 241 Brute Suit
+neo 242 Circuit Mender
+neo 243 Containment Construct
+neo 244 Dramatist's Puppet
+neo 245 Eater of Virtue
+neo 246 Ecologist's Terrarium
+neo 247 High-Speed Hoverbike
+neo 248 Iron Apprentice
+neo 249 Mechtitan Core
+neo 250 Mirror Box
+neo 251 Network Terminal
+neo 252 Ninja's Kunai
+neo 253 Papercraft Decoy
+neo 254 Patchwork Automaton
+neo 255 Reckoner Bankbuster
+neo 256 Reito Sentinel
+neo 257 Runaway Trash-Bot
+neo 258 Searchlight Companion
+neo 259 Shrine Steward
+neo 260 Surgehacker Mech
+neo 261 Thundersteel Colossus
+neo 262 Towashi Guide-Bot
+neo 263 Walking Skyscraper
+neo 264 Bloodfell Caves
+neo 265 Blossoming Sands
+neo 266 Boseiju, Who Endures
+neo 267 Dismal Backwater
+neo 268 Eiganjo, Seat of the Empire
+neo 269 Jungle Hollow
+neo 270 Mech Hangar
+neo 271 Otawara, Soaring City
+neo 272 Roadside Reliquary
+neo 273 Rugged Highlands
+neo 274 Scoured Barrens
+neo 275 Secluded Courtyard
+neo 276 Sokenzan, Crucible of Defiance
+neo 277 Swiftwater Cliffs
+neo 278 Takenuma, Abandoned Mire
+neo 279 Thornwood Falls
+neo 280 Tranquil Cove
+neo 281 Uncharted Haven
+neo 282 Wind-Scarred Crag
+neo 283 Plains
+neo 284 Plains
+neo 285 Island
+neo 286 Island
+neo 287 Swamp
+neo 288 Swamp
+neo 289 Mountain
+neo 290 Mountain
+neo 291 Forest
+neo 292 Forest
+neo 293 Plains
+neo 294 Plains
+neo 295 Island
+neo 296 Island
+neo 297 Swamp
+neo 298 Swamp
+neo 299 Mountain
+neo 300 Mountain
+neo 301 Forest
+neo 302 Forest
+neo 303 The Wandering Emperor
+neo 304 Tezzeret, Betrayer of Flesh
+neo 305 Kaito Shizuki
+neo 306 Tamiyo, Compleated Sage
+neo 307 Jin-Gitaxias, Progress Tyrant
+neo 308 Tamiyo, Compleated Sage
+neo 309 Eiganjo Exemplar
+neo 310 Imperial Subduer
+neo 311 Norika Yamazaki, the Poet
+neo 312 Selfless Samurai
+neo 313 Seven-Tail Mentor
+neo 314 Sky-Blessed Samurai
+neo 315 Sunblade Samurai
+neo 316 The Wandering Emperor
+neo 317 Guardians of Oboro
+neo 318 Nezumi Bladeblesser
+neo 319 Akki Ronin
+neo 320 Goro-Goro, Disciple of Ryusei
+neo 321 Heiko Yamazaki, the General
+neo 322 Peerless Samurai
+neo 323 Reinforced Ronin
+neo 324 Upriser Renegade
+neo 325 Heir of the Ancient Fang
+neo 326 Jukai Trainee
+neo 327 Asari Captain
+neo 328 Isshin, Two Heavens as One
+neo 329 Raiyuu, Storm's Edge
+neo 330 Risona, Asari Commander
+neo 331 Blade-Blizzard Kitsune
+neo 332 Covert Technician
+neo 333 Futurist Operative
+neo 334 Moon-Circuit Hacker
+neo 335 Moonsnare Specialist
+neo 336 Prosperous Thief
+neo 337 Thousand-Faced Shadow
+neo 338 Biting-Palm Ninja
+neo 339 Dokuchi Shadow-Walker
+neo 340 Dokuchi Silencer
+neo 341 Inkrise Infiltrator
+neo 342 Mukotai Ambusher
+neo 343 Nashi, Moon Sage's Scion
+neo 344 Nezumi Prowler
+neo 345 Tatsunari, Toad Rider
+neo 346 Coiling Stalker
+neo 347 Fang of Shigeki
+neo 348 Kappa Tech-Wrecker
+neo 349 Spring-Leaf Avenger
+neo 350 Kaito Shizuki
+neo 351 Kotose, the Silent Spider
+neo 352 Satoru Umezawa
+neo 353 Silver-Fur Master
+neo 354 The Restoration of Eiganjo // Architect of Restoration
+neo 355 Inventive Iteration // Living Breakthrough
+neo 356 Tribute to Horobi // Echo of Death's Wail
+neo 357 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+neo 358 The Dragon-Kami Reborn // Dragon-Kami's Egg
+neo 359 Jugan Defends the Temple // Remnant of the Rising Star
+neo 360 Teachings of the Kirin // Kirin-Touched Orochi
+neo 361 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 362 The Kami War // O-Kagachi Made Manifest
+neo 363 Brilliant Restoration
+neo 364 Cloudsteel Kirin
+neo 365 Farewell
+neo 366 Invoke Justice
+neo 367 Light-Paws, Emperor's Voice
+neo 368 Lion Sash
+neo 369 March of Otherworldly Light
+neo 370 Invoke the Winds
+neo 371 Jin-Gitaxias, Progress Tyrant
+neo 372 March of Swirling Mist
+neo 373 Mindlink Mech
+neo 374 The Reality Chip
+neo 375 Tameshi, Reality Architect
+neo 376 Tezzeret, Betrayer of Flesh
+neo 377 Blade of the Oni
+neo 378 Hidetsugu, Devouring Chaos
+neo 379 Invoke Despair
+neo 380 March of Wretched Sorrow
+neo 381 Mukotai Soulripper
+neo 382 Soul Transfer
+neo 383 Explosive Singularity
+neo 384 Invoke Calamity
+neo 385 Lizard Blades
+neo 386 March of Reckless Joy
+neo 387 Ogre-Head Helm
+neo 388 Scrap Welder
+neo 389 Thundering Raiju
+neo 390 Invoke the Ancients
+neo 391 Kami of Transience
+neo 392 Kodama of the West Tree
+neo 393 March of Burgeoning Life
+neo 394 Shigeki, Jukai Visionary
+neo 395 Weaver of Harmony
+neo 396 Eiganjo Uprising
+neo 397 Greasefang, Okiba Boss
+neo 398 Hinata, Dawn-Crowned
+neo 399 Satsuki, the Living Lore
+neo 400 Spirit-Sister's Call
+neo 401 Eater of Virtue
+neo 402 Mechtitan Core
+neo 403 Mirror Box
+neo 404 Reckoner Bankbuster
+neo 405 Surgehacker Mech
+neo 406 Ao, the Dawn Sky
+neo 407 Kyodai, Soul of Kamigawa
+neo 408 Kairi, the Swirling Sky
+neo 409 Junji, the Midnight Sky
+neo 410 Atsushi, the Blazing Sky
+neo 411 Kura, the Boundless Sky
+neo 412 Boseiju, Who Endures
+neo 413 Eiganjo, Seat of the Empire
+neo 414 Otawara, Soaring City
+neo 415 Sokenzan, Crucible of Defiance
+neo 416 Takenuma, Abandoned Mire
+neo 417 Farewell
+neo 418 The Wandering Emperor
+neo 419 Tezzeret, Betrayer of Flesh
+neo 420 Blade of the Oni
+neo 421 Nashi, Moon Sage's Scion
+neo 422 Explosive Singularity
+neo 423 Kodama of the West Tree
+neo 424 Kaito Shizuki
+neo 425 Risona, Asari Commander
+neo 426 Satoru Umezawa
+neo 427 Jin-Gitaxias, Progress Tyrant
+neo 428 Tamiyo, Compleated Sage
+neo 429 Hidetsugu, Devouring Chaos
+neo 430 Hidetsugu, Devouring Chaos
+neo 431 Hidetsugu, Devouring Chaos
+neo 432 Hidetsugu, Devouring Chaos
+neo 433 Ao, the Dawn Sky
+neo 434 Brilliant Restoration
+neo 435 Cloudsteel Kirin
+neo 436 Farewell
+neo 437 Invoke Justice
+neo 438 Kyodai, Soul of Kamigawa
+neo 439 Light-Paws, Emperor's Voice
+neo 440 Lion Sash
+neo 441 March of Otherworldly Light
+neo 442 The Restoration of Eiganjo // Architect of Restoration
+neo 443 Inventive Iteration // Living Breakthrough
+neo 444 Invoke the Winds
+neo 445 Jin-Gitaxias, Progress Tyrant
+neo 446 Kairi, the Swirling Sky
+neo 447 March of Swirling Mist
+neo 448 Mindlink Mech
+neo 449 The Reality Chip
+neo 450 Tameshi, Reality Architect
+neo 451 Thousand-Faced Shadow
+neo 452 Biting-Palm Ninja
+neo 453 Blade of the Oni
+neo 454 Hidetsugu, Devouring Chaos
+neo 455 Invoke Despair
+neo 456 Junji, the Midnight Sky
+neo 457 March of Wretched Sorrow
+neo 458 Mukotai Soulripper
+neo 459 Nashi, Moon Sage's Scion
+neo 460 Soul Transfer
+neo 461 Tatsunari, Toad Rider
+neo 462 Tribute to Horobi // Echo of Death's Wail
+neo 463 Atsushi, the Blazing Sky
+neo 464 Explosive Singularity
+neo 465 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+neo 466 Goro-Goro, Disciple of Ryusei
+neo 467 Invoke Calamity
+neo 468 Lizard Blades
+neo 469 March of Reckless Joy
+neo 470 Ogre-Head Helm
+neo 471 Scrap Welder
+neo 472 Thundering Raiju
+neo 473 The Dragon-Kami Reborn // Dragon-Kami's Egg
+neo 474 Invoke the Ancients
+neo 475 Jugan Defends the Temple // Remnant of the Rising Star
+neo 476 Kami of Transience
+neo 477 Kodama of the West Tree
+neo 478 Kura, the Boundless Sky
+neo 479 March of Burgeoning Life
+neo 480 Shigeki, Jukai Visionary
+neo 481 Spring-Leaf Avenger
+neo 482 Teachings of the Kirin // Kirin-Touched Orochi
+neo 483 Weaver of Harmony
+neo 484 Eiganjo Uprising
+neo 485 Greasefang, Okiba Boss
+neo 486 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 487 Hinata, Dawn-Crowned
+neo 488 Isshin, Two Heavens as One
+neo 489 The Kami War // O-Kagachi Made Manifest
+neo 490 Kotose, the Silent Spider
+neo 491 Raiyuu, Storm's Edge
+neo 492 Risona, Asari Commander
+neo 493 Satoru Umezawa
+neo 494 Satsuki, the Living Lore
+neo 495 Spirit-Sister's Call
+neo 496 Eater of Virtue
+neo 497 Mechtitan Core
+neo 498 Mirror Box
+neo 499 Reckoner Bankbuster
+neo 500 Surgehacker Mech
+neo 501 Boseiju, Who Endures
+neo 502 Eiganjo, Seat of the Empire
+neo 503 Otawara, Soaring City
+neo 504 Sokenzan, Crucible of Defiance
+neo 505 Takenuma, Abandoned Mire
+neo 506 Invoke Despair
+neo 507 Satoru Umezawa
+neo 508 Spirited Companion
+neo 509 Enthusiastic Mechanaut
+neo 510 Jukai Naturalist
+neo 511 Silver-Fur Master
+neo 512 Secluded Courtyard

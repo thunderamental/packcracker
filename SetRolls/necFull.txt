@@ -1,0 +1,76 @@
+nec 1 Chishiro, the Shattered Blade
+nec 2 Kotori, Pilot Prodigy
+nec 3 Kaima, the Fractured Calm
+nec 4 Shorikai, Genesis Engine
+nec 5 Aerial Surveyor
+nec 6 Drumbellower
+nec 7 Ironsoul Enforcer
+nec 8 Organic Extinction
+nec 9 Release to Memory
+nec 10 Swift Reconfiguration
+nec 11 Access Denied
+nec 12 Cyberdrive Awakener
+nec 13 Imposter Mech
+nec 14 Kappa Cannoneer
+nec 15 Katsumasa, the Animator
+nec 16 Research Thief
+nec 17 Universal Surveillance
+nec 18 Akki Battle Squad
+nec 19 Collision of Realms
+nec 20 Kami of Celebration
+nec 21 Komainu Battle Armor
+nec 22 Smoke Spirits' Aid
+nec 23 Unquenchable Fury
+nec 24 Ascendant Acolyte
+nec 25 Concord with the Kami
+nec 26 Kosei, Penitent Warlord
+nec 27 One with the Kami
+nec 28 Rampant Rejuvenator
+nec 29 Silkguard
+nec 30 Tanuki Transplanter
+nec 31 Myojin of Blooming Dawn
+nec 32 Yoshimaru, Ever Faithful
+nec 33 Myojin of Cryptic Dreams
+nec 34 Myojin of Grim Betrayal
+nec 35 Ruthless Technomancer
+nec 36 Myojin of Roaring Blades
+nec 37 Go-Shintai of Life's Origin
+nec 38 Myojin of Towering Might
+nec 39 Aerial Surveyor
+nec 40 Drumbellower
+nec 41 Ironsoul Enforcer
+nec 42 Myojin of Blooming Dawn
+nec 43 Organic Extinction
+nec 44 Release to Memory
+nec 45 Swift Reconfiguration
+nec 46 Yoshimaru, Ever Faithful
+nec 47 Access Denied
+nec 48 Cyberdrive Awakener
+nec 49 Imposter Mech
+nec 50 Kappa Cannoneer
+nec 51 Katsumasa, the Animator
+nec 52 Myojin of Cryptic Dreams
+nec 53 Research Thief
+nec 54 Universal Surveillance
+nec 55 Myojin of Grim Betrayal
+nec 56 Ruthless Technomancer
+nec 57 Akki Battle Squad
+nec 58 Collision of Realms
+nec 59 Kami of Celebration
+nec 60 Komainu Battle Armor
+nec 61 Myojin of Roaring Blades
+nec 62 Smoke Spirits' Aid
+nec 63 Unquenchable Fury
+nec 64 Ascendant Acolyte
+nec 65 Concord with the Kami
+nec 66 Go-Shintai of Life's Origin
+nec 67 Kosei, Penitent Warlord
+nec 68 Myojin of Towering Might
+nec 69 One with the Kami
+nec 70 Rampant Rejuvenator
+nec 71 Silkguard
+nec 72 Tanuki Transplanter
+nec 73 Chishiro, the Shattered Blade
+nec 74 Kaima, the Fractured Calm
+nec 75 Kotori, Pilot Prodigy
+nec 76 Shorikai, Genesis Engine

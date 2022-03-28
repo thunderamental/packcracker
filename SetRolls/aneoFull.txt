@@ -1,0 +1,81 @@
+aneo 1 Bearer of Memory // Bearer of Memory
+aneo 2 Imperial Subduer // Imperial Subduer
+aneo 3 Skyswimmer Koi // Skyswimmer Koi
+aneo 4 Repel the Vile // Repel the Vile
+aneo 5 Satsuki, the Living Lore // Satsuki, the Living Lore
+aneo 6 Moonfolk Puzzlemaker // Moonfolk Puzzlemaker
+aneo 7 Myojin of Cryptic Dreams // Myojin of Cryptic Dreams
+aneo 8 Kosei, Penitent Warlord // Kosei, Penitent Warlord
+aneo 9 Myojin of Grim Betrayal // Myojin of Grim Betrayal
+aneo 10 Atsushi, the Blazing Sky // Atsushi, the Blazing Sky
+aneo 11 Gift of Wrath // Gift of Wrath
+aneo 12 Return to Action // Return to Action
+aneo 13 Explosive Entry // Explosive Entry
+aneo 14 Isshin, Two Heavens as One // Isshin, Two Heavens as One
+aneo 15 Voltage Surge // Voltage Surge
+aneo 16 Enormous Energy Blade // Enormous Energy Blade
+aneo 17 Kami of Industry // Kami of Industry
+aneo 18 Reckoner Shakedown // Reckoner Shakedown
+aneo 19 Sky-Blessed Samurai // Sky-Blessed Samurai
+aneo 20 Bamboo Grove Archer // Bamboo Grove Archer
+aneo 21 Careful Cultivation // Careful Cultivation
+aneo 22 Brilliant Restoration // Brilliant Restoration
+aneo 23 Light-Paws, Emperor's Voice // Light-Paws, Emperor's Voice
+aneo 24 Yoshimaru, Ever Faithful // Yoshimaru, Ever Faithful
+aneo 25 Ao, the Dawn Sky // Ao, the Dawn Sky
+aneo 26 Go-Shintai of Life's Origin // Go-Shintai of Life's Origin
+aneo 27 Universal Surveillance // Universal Surveillance
+aneo 28 Gloomshrieker // Gloomshrieker
+aneo 29 March of Burgeoning Life // March of Burgeoning Life
+aneo 30 Guardians of Oboro // Guardians of Oboro
+aneo 31 Raiyuu, Storm's Edge // Raiyuu, Storm's Edge
+aneo 32 Clawing Torment // Clawing Torment
+aneo 33 Myojin of Blooming Dawn // Myojin of Blooming Dawn
+aneo 34 Myojin of Towering Might // Myojin of Towering Might
+aneo 35 Naomi, Pillar of Order // Naomi, Pillar of Order
+aneo 36 Tameshi, Reality Architect // Tameshi, Reality Architect
+aneo 37 Thousand-Faced Shadow // Thousand-Faced Shadow
+aneo 38 Junji, the Midnight Sky // Junji, the Midnight Sky
+aneo 39 Unquenchable Fury // Unquenchable Fury
+aneo 40 Commune with Spirits // Commune with Spirits
+aneo 41 Smoke Spirits' Aid // Smoke Spirits' Aid
+aneo 42 Undercity Scrounger // Undercity Scrounger
+aneo 43 Discover the Impossible // Discover the Impossible
+aneo 44 Forest // Forest
+aneo 45 Surgehacker Mech // Surgehacker Mech
+aneo 46 Ao, the Dawn Sky // Ao, the Dawn Sky
+aneo 47 Blade-Blizzard Kitsune // Blade-Blizzard Kitsune
+aneo 48 March of Otherworldly Light // March of Otherworldly Light
+aneo 49 The Wandering Emperor // The Wandering Emperor
+aneo 50 The Wandering Emperor // The Wandering Emperor
+aneo 51 Covert Technician // Covert Technician
+aneo 52 Jin-Gitaxias, Progress Tyrant // Jin-Gitaxias, Progress Tyrant
+aneo 53 Tameshi, Reality Architect // Tameshi, Reality Architect
+aneo 54 Tezzeret, Betrayer of Flesh // Tezzeret, Betrayer of Flesh
+aneo 55 Echo of Death's Wail // Echo of Death's Wail
+aneo 56 Hidetsugu, Devouring Chaos // Hidetsugu, Devouring Chaos
+aneo 57 Invoke Despair // Invoke Despair
+aneo 58 Junji, the Midnight Sky // Junji, the Midnight Sky
+aneo 59 Nashi, Moon Sage's Scion // Nashi, Moon Sage's Scion
+aneo 60 Tatsunari, Toad Rider // Tatsunari, Toad Rider
+aneo 61 Atsushi, the Blazing Sky // Atsushi, the Blazing Sky
+aneo 62 March of Reckless Joy // March of Reckless Joy
+aneo 63 Peerless Samurai // Peerless Samurai
+aneo 64 Reflection of Kiki-Jiki // Reflection of Kiki-Jiki
+aneo 65 Upriser Renegade // Upriser Renegade
+aneo 66 Kura, the Boundless Sky // Kura, the Boundless Sky
+aneo 67 Asari Captain // Asari Captain
+aneo 68 Hinata, Dawn-Crowned // Hinata, Dawn-Crowned
+aneo 69 Isshin, Two Heavens as One // Isshin, Two Heavens as One
+aneo 70 Kaito Shizuki // Kaito Shizuki
+aneo 71 Kaito Shizuki // Kaito Shizuki
+aneo 72 Risona, Asari Commander // Risona, Asari Commander
+aneo 73 Satoru Umezawa // Satoru Umezawa
+aneo 74 Satoru Umezawa // Satoru Umezawa
+aneo 75 Spirit-Sister's Call // Spirit-Sister's Call
+aneo 76 Tamiyo, Compleated Sage // Tamiyo, Compleated Sage
+aneo 77 Vessel of the All-Consuming // Vessel of the All-Consuming
+aneo 78 Mountain // Mountain
+aneo 79 Plains // Plains
+aneo 80 Plains // Plains
+aneo 81 Swamp // Swamp

@@ -1,0 +1,74 @@
+neo 433 Ao, the Dawn Sky
+neo 434 Brilliant Restoration
+neo 435 Cloudsteel Kirin
+neo 436 Farewell
+neo 437 Invoke Justice
+neo 438 Kyodai, Soul of Kamigawa
+neo 439 Light-Paws, Emperor's Voice
+neo 440 Lion Sash
+neo 441 March of Otherworldly Light
+neo 442 The Restoration of Eiganjo // Architect of Restoration
+neo 443 Inventive Iteration // Living Breakthrough
+neo 444 Invoke the Winds
+neo 445 Jin-Gitaxias, Progress Tyrant
+neo 446 Kairi, the Swirling Sky
+neo 447 March of Swirling Mist
+neo 448 Mindlink Mech
+neo 449 The Reality Chip
+neo 450 Tameshi, Reality Architect
+neo 451 Thousand-Faced Shadow
+neo 452 Biting-Palm Ninja
+neo 453 Blade of the Oni
+neo 454 Hidetsugu, Devouring Chaos
+neo 455 Invoke Despair
+neo 456 Junji, the Midnight Sky
+neo 457 March of Wretched Sorrow
+neo 458 Mukotai Soulripper
+neo 459 Nashi, Moon Sage's Scion
+neo 460 Soul Transfer
+neo 461 Tatsunari, Toad Rider
+neo 462 Tribute to Horobi // Echo of Death's Wail
+neo 463 Atsushi, the Blazing Sky
+neo 464 Explosive Singularity
+neo 465 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+neo 466 Goro-Goro, Disciple of Ryusei
+neo 467 Invoke Calamity
+neo 468 Lizard Blades
+neo 469 March of Reckless Joy
+neo 470 Ogre-Head Helm
+neo 471 Scrap Welder
+neo 472 Thundering Raiju
+neo 473 The Dragon-Kami Reborn // Dragon-Kami's Egg
+neo 474 Invoke the Ancients
+neo 475 Jugan Defends the Temple // Remnant of the Rising Star
+neo 476 Kami of Transience
+neo 477 Kodama of the West Tree
+neo 478 Kura, the Boundless Sky
+neo 479 March of Burgeoning Life
+neo 480 Shigeki, Jukai Visionary
+neo 481 Spring-Leaf Avenger
+neo 482 Teachings of the Kirin // Kirin-Touched Orochi
+neo 483 Weaver of Harmony
+neo 484 Eiganjo Uprising
+neo 485 Greasefang, Okiba Boss
+neo 486 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 487 Hinata, Dawn-Crowned
+neo 488 Isshin, Two Heavens as One
+neo 489 The Kami War // O-Kagachi Made Manifest
+neo 490 Kotose, the Silent Spider
+neo 491 Raiyuu, Storm's Edge
+neo 492 Risona, Asari Commander
+neo 493 Satoru Umezawa
+neo 494 Satsuki, the Living Lore
+neo 495 Spirit-Sister's Call
+neo 496 Eater of Virtue
+neo 497 Mechtitan Core
+neo 498 Mirror Box
+neo 499 Reckoner Bankbuster
+neo 500 Surgehacker Mech
+neo 501 Boseiju, Who Endures
+neo 502 Eiganjo, Seat of the Empire
+neo 503 Otawara, Soaring City
+neo 504 Sokenzan, Crucible of Defiance
+neo 505 Takenuma, Abandoned Mire
+neo 507 Satoru Umezawa
