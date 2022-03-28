@@ -117,6 +117,7 @@ def filtertime(set, condName = "Filtered", condition = falseReturner):
             if (condition(card)):
                 filtered.append([set, card["collector_number"], card["name"]])
     with open(set + condName + ".txt", 'w') as filehandle:
+        # this is giving me trouble. How to write without the final line? ..  Answer : keep it. handle in js
         filehandle.writelines("%s %s %s\n" % (card[0], card[1], card[2]) for card in filtered)
     shutil.move(set + condName + '.txt', "SetRolls/" + set + condName + '.txt')
 

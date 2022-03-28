@@ -1,9 +1,25 @@
 var express = require('express');
 var router = express.Router();
 
+var fs = require('fs');
+var _ = require('underscore');
+
+function roll(pool) {
+    var array = fs.readFileSync(`SetRolls/${pool}.txt`).toString().split("\n");
+    array.pop();
+    return _.sample(array);
+}
+
+function testInput() {
+    var array = fs.readFileSync('SetRolls/neoFoil.txt').toString().split("\n");
+    for(i in array) {
+        console.log(array[i]);
+    }
+    return array;
+}
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send(`Kamigawa Neon Dynasty landing page. Here is a random number : ${Math.random()}`);
+  res.send(`Kamigawa Neon Dynasty landing page. Here is the parsed input : ${testInput()}`);
 });
 
 router.get('/set', function(req, res, next) {
@@ -11,11 +27,11 @@ router.get('/set', function(req, res, next) {
 });
 
 router.get('/draft', function(req, res, next) {
-    res.json(rollSetBoosterDistribution());
+    res.json(rollDraftBoosterDistribution());
 });
 
 router.get('/collector', function(req, res, next) {
-    res.json('Kamigawa Neon Dynasty collector booster call landing page.');
+    res.json('Kamigawa Neon Dynasty collector booster call landing page uwu.');
 });
 
 function getRandomInt(min, max) { // min <= roll <= max (inclusive roll)
@@ -26,11 +42,11 @@ function getRandomInt(min, max) { // min <= roll <= max (inclusive roll)
 
 // setbooster functions
 function rollArtCard() { // 5% are foilstamped
-    return getRandomInt(1,81);
+    return roll("aneoFull")
 } 
 
 function rollFoil() { // Showcase, Borderless, Commander included. Full roll
-    return getRandomInt(1,10);
+    return roll("neoFoil") // UNIFORM ROLL
 }
 
 function rollRM() { // Showcase, Borderless included. nonfoil.
@@ -42,7 +58,12 @@ function rollRM() { // Showcase, Borderless included. nonfoil.
         case (seed > 0.86486486486):
             slot = "mythic";
     }
-    return [seed, slot];
+    // return [seed, slot];
+    if (slot == 'rare') {
+        return roll("neoRare");
+    } else {
+        return roll("neoMythic");
+    }
 }
 
 function rollWildcard2() { // Showcase, Borderless, Commander included. Full roll + Ukiyo
@@ -54,37 +75,52 @@ function rollWildcard2() { // Showcase, Borderless, Commander included. Full rol
         // distribution on number of uncommon
         case (seed > 0.979):
             slot = [2,2];
+            return [roll("neoWCR"), roll("neoWCR")];
             break;
         case (seed > 0.936):
             slot = [1,2];
+            return [roll("neoWCU"), roll("neoWCR")];
             break;
         case (seed > 0.905):
             slot = [1,1];
+            return [roll("neoWCU"), roll("neoWCU")];
             break;
         case (seed > 0.735):
             slot = [0,2];
+            return [roll("neoWCC"), roll("neoWCR")];
             break;
         case (seed > 0.49):
             slot = [1,0];
+            return [roll("neoWCU"), roll("neoWCC")];
             break;
     }
     return [seed,`slot = ${slot}`];
 }
 
 function rollShowcase() { // single faced showcase C/U
-    return 0;
+    return roll("neoShowcaseUC");
 }
 
 function rollSaga() {
     // all 2Faced cards are sagas. ONLY C/Us; R/M sagas drop only in the R/M slot
-    return getRandomInt(1,10);
+    return roll("neoSagasUC");
 }
 
 function rollUs(n) {
     // n single faced Us
+    var uncs = []
+    for (var i = 0; i < n; i++) {
+        uncs.push(roll("neoUncommon"));
+    }
+    return uncs;
 }
 function rollCs(n) {
     // n single faced Cs
+    var cs = []
+    for (var i = 0; i < n; i++) {
+        cs.push(roll("neoCommon"));
+    }
+    return cs;
 }
 
 function rollLandSlot() {
@@ -92,7 +128,15 @@ function rollLandSlot() {
     // 7% foil ukiyo
     // 33% nonfoil ukiyo
     // otherwise uniform other with 5% foil
-    return getRandomInt(1,10);
+    
+    var seed = Math.random();
+    switch (true) {
+        // fall through the switch downwards, catching each case
+        // distribution on mythic roll 
+        case (seed > 0.66):
+            return roll("neoUkiyo");
+    }
+    return roll("neoBasics");
 }
 
 function rollListCard() {
