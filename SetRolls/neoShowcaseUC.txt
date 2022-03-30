@@ -1,32 +1,32 @@
-neo 309 Eiganjo Exemplar
-neo 310 Imperial Subduer
-neo 311 Norika Yamazaki, the Poet
-neo 312 Selfless Samurai
-neo 313 Seven-Tail Mentor
-neo 314 Sky-Blessed Samurai
-neo 315 Sunblade Samurai
-neo 317 Guardians of Oboro
-neo 318 Nezumi Bladeblesser
-neo 319 Akki Ronin
-neo 321 Heiko Yamazaki, the General
-neo 322 Peerless Samurai
-neo 323 Reinforced Ronin
-neo 324 Upriser Renegade
-neo 325 Heir of the Ancient Fang
-neo 326 Jukai Trainee
-neo 327 Asari Captain
-neo 331 Blade-Blizzard Kitsune
-neo 332 Covert Technician
-neo 333 Futurist Operative
-neo 334 Moon-Circuit Hacker
-neo 335 Moonsnare Specialist
-neo 336 Prosperous Thief
-neo 339 Dokuchi Shadow-Walker
-neo 340 Dokuchi Silencer
-neo 341 Inkrise Infiltrator
-neo 342 Mukotai Ambusher
-neo 344 Nezumi Prowler
-neo 346 Coiling Stalker
-neo 347 Fang of Shigeki
-neo 348 Kappa Tech-Wrecker
-neo 353 Silver-Fur Master
+neo 309 https://c1.scryfall.com/file/scryfall-cards/png/front/6/c/6c85917c-60ea-44d3-8483-fa639564e881.png?1643991535 Eiganjo Exemplar
+neo 310 https://c1.scryfall.com/file/scryfall-cards/png/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.png?1643401044 Imperial Subduer
+neo 311 https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/344df5c2-a963-42e3-b61b-1712f15e1eb9.png?1643664792 Norika Yamazaki, the Poet
+neo 312 https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/82f1ade5-06ff-41ab-9a68-bf901959b01f.png?1643989600 Selfless Samurai
+neo 313 https://c1.scryfall.com/file/scryfall-cards/png/front/2/6/267efff1-cbe6-40b0-959e-72b81cbda1d0.png?1644007174 Seven-Tail Mentor
+neo 314 https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/91d6a843-a1b7-4862-a2bf-8f8f66788126.png?1644004119 Sky-Blessed Samurai
+neo 315 https://c1.scryfall.com/file/scryfall-cards/png/front/a/3/a32e2ad3-c5fb-4072-aabf-6cb9538db3ca.png?1643567766 Sunblade Samurai
+neo 317 https://c1.scryfall.com/file/scryfall-cards/png/front/9/5/95dbd59e-a2f0-4031-b6c6-1b59fb7cb067.png?1643567923 Guardians of Oboro
+neo 318 https://c1.scryfall.com/file/scryfall-cards/png/front/3/1/317bdf0d-df7d-4ca2-8131-060ba7cf2602.png?1643751253 Nezumi Bladeblesser
+neo 319 https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fa16ee8e-d33a-40e9-9956-e345f0511819.png?1644004743 Akki Ronin
+neo 321 https://c1.scryfall.com/file/scryfall-cards/png/front/c/9/c91040c0-f025-4843-8c0e-3ac1b76c8582.png?1643666212 Heiko Yamazaki, the General
+neo 322 https://c1.scryfall.com/file/scryfall-cards/png/front/2/4/247c362c-bf21-4bca-89d4-54eb60806f10.png?1643591753 Peerless Samurai
+neo 323 https://c1.scryfall.com/file/scryfall-cards/png/front/a/6/a69eec2f-eec0-491f-944c-ca944d9d320b.png?1643999503 Reinforced Ronin
+neo 324 https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/52af0f2d-de2e-4554-ae32-c88bc7ba7c71.png?1643755237 Upriser Renegade
+neo 325 https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54509524-92b9-41a3-8aba-a8955a7dfa1a.png?1643761390 Heir of the Ancient Fang
+neo 326 https://c1.scryfall.com/file/scryfall-cards/png/front/1/6/164e663f-6a67-4a10-a737-33ea533a9316.png?1644007151 Jukai Trainee
+neo 327 https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/94158fdf-c794-4ce9-a04e-cb6922604d19.png?1643402348 Asari Captain
+neo 331 https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/53d244d4-c2c4-4032-b249-794556d79429.png?1643991599 Blade-Blizzard Kitsune
+neo 332 https://c1.scryfall.com/file/scryfall-cards/png/front/2/f/2f268152-304a-4db8-a3f9-dd9d0f3319a1.png?1643326306 Covert Technician
+neo 333 https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/47bad5c1-5804-4fba-91d9-3a49951f6e06.png?1643992023 Futurist Operative
+neo 334 https://c1.scryfall.com/file/scryfall-cards/png/front/7/5/75c43923-7280-4ccb-810b-e8c38dd8a26f.png?1643567441 Moon-Circuit Hacker
+neo 335 https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f5e2fdd4-b953-4e9a-b511-52199a34214e.png?1643927326 Moonsnare Specialist
+neo 336 https://c1.scryfall.com/file/scryfall-cards/png/front/b/1/b1e666d9-d2ba-49a6-a2c7-cd2639bf4663.png?1643993928 Prosperous Thief
+neo 339 https://c1.scryfall.com/file/scryfall-cards/png/front/6/d/6d35bcc7-2280-4061-9a6c-e67038cfb114.png?1643327049 Dokuchi Shadow-Walker
+neo 340 https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f5103a49-806f-48de-ba44-e252bb6dd035.png?1644032109 Dokuchi Silencer
+neo 341 https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f66aaba3-4a28-4fcf-926a-34bbbf0dbeb4.png?1643665857 Inkrise Infiltrator
+neo 342 https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/357594c7-a9a6-468d-b262-e5f7d5e35f54.png?1643927028 Mukotai Ambusher
+neo 344 https://c1.scryfall.com/file/scryfall-cards/png/front/9/a/9a64789a-748a-4630-949c-e1b045edd225.png?1643755195 Nezumi Prowler
+neo 346 https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/8297592c-3036-434a-9dbb-5f0af804dd13.png?1643844178 Coiling Stalker
+neo 347 https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/94c8e2d5-2706-4137-bfdc-d65f1cd33bda.png?1643702033 Fang of Shigeki
+neo 348 https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b9017ff4-d63f-4dd2-9157-c93fe4866bef.png?1643399826 Kappa Tech-Wrecker
+neo 353 https://c1.scryfall.com/file/scryfall-cards/png/front/5/d/5d9a0771-072c-4b0c-afcb-15a6406473c6.png?1643320962 Silver-Fur Master

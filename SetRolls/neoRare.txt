@@ -1,186 +1,182 @@
-neo 7 Brilliant Restoration
-neo 8 Cloudsteel Kirin
-neo 13 Farewell
-neo 21 Invoke Justice
-neo 23 Kyodai, Soul of Kamigawa
-neo 25 Light-Paws, Emperor's Voice
-neo 26 Lion Sash
-neo 28 March of Otherworldly Light
-neo 34 The Restoration of Eiganjo // Architect of Restoration
-neo 57 Inventive Iteration // Living Breakthrough
-neo 58 Invoke the Winds
-neo 61 March of Swirling Mist
-neo 62 Mindlink Mech
-neo 74 The Reality Chip
-neo 82 Tameshi, Reality Architect
-neo 86 Thousand-Faced Shadow
-neo 88 Biting-Palm Ninja
-neo 99 Hidetsugu, Devouring Chaos
-neo 101 Invoke Despair
-neo 111 March of Wretched Sorrow
-neo 113 Mukotai Soulripper
-neo 122 Soul Transfer
-neo 123 Tatsunari, Toad Rider
-neo 124 Tribute to Horobi // Echo of Death's Wail
-neo 141 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-neo 145 Goro-Goro, Disciple of Ryusei
-neo 147 Invoke Calamity
-neo 153 Lizard Blades
-neo 154 March of Reckless Joy
-neo 155 Ogre-Head Helm
-neo 159 Scrap Welder
-neo 166 Thundering Raiju
-neo 181 The Dragon-Kami Reborn // Dragon-Kami's Egg
-neo 193 Invoke the Ancients
-neo 197 Kami of Transience
-neo 201 March of Burgeoning Life
-neo 206 Shigeki, Jukai Visionary
-neo 208 Spring-Leaf Avenger
-neo 212 Teachings of the Kirin // Kirin-Touched Orochi
-neo 213 Weaver of Harmony
-neo 217 Eiganjo Uprising
-neo 220 Greasefang, Okiba Boss
-neo 222 Hinata, Dawn-Crowned
-neo 224 Isshin, Two Heavens as One
-neo 228 Kotose, the Silent Spider
-neo 232 Raiyuu, Storm's Edge
-neo 233 Risona, Asari Commander
-neo 234 Satoru Umezawa
-neo 235 Satsuki, the Living Lore
-neo 245 Eater of Virtue
-neo 249 Mechtitan Core
-neo 250 Mirror Box
-neo 255 Reckoner Bankbuster
-neo 260 Surgehacker Mech
-neo 266 Boseiju, Who Endures
-neo 268 Eiganjo, Seat of the Empire
-neo 271 Otawara, Soaring City
-neo 276 Sokenzan, Crucible of Defiance
-neo 278 Takenuma, Abandoned Mire
-neo 320 Goro-Goro, Disciple of Ryusei
-neo 328 Isshin, Two Heavens as One
-neo 329 Raiyuu, Storm's Edge
-neo 330 Risona, Asari Commander
-neo 337 Thousand-Faced Shadow
-neo 338 Biting-Palm Ninja
-neo 345 Tatsunari, Toad Rider
-neo 349 Spring-Leaf Avenger
-neo 351 Kotose, the Silent Spider
-neo 352 Satoru Umezawa
-neo 354 The Restoration of Eiganjo // Architect of Restoration
-neo 355 Inventive Iteration // Living Breakthrough
-neo 356 Tribute to Horobi // Echo of Death's Wail
-neo 357 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-neo 358 The Dragon-Kami Reborn // Dragon-Kami's Egg
-neo 360 Teachings of the Kirin // Kirin-Touched Orochi
-neo 363 Brilliant Restoration
-neo 364 Cloudsteel Kirin
-neo 365 Farewell
-neo 366 Invoke Justice
-neo 367 Light-Paws, Emperor's Voice
-neo 368 Lion Sash
-neo 369 March of Otherworldly Light
-neo 370 Invoke the Winds
-neo 372 March of Swirling Mist
-neo 373 Mindlink Mech
-neo 374 The Reality Chip
-neo 375 Tameshi, Reality Architect
-neo 378 Hidetsugu, Devouring Chaos
-neo 379 Invoke Despair
-neo 380 March of Wretched Sorrow
-neo 381 Mukotai Soulripper
-neo 382 Soul Transfer
-neo 384 Invoke Calamity
-neo 385 Lizard Blades
-neo 386 March of Reckless Joy
-neo 387 Ogre-Head Helm
-neo 388 Scrap Welder
-neo 389 Thundering Raiju
-neo 390 Invoke the Ancients
-neo 391 Kami of Transience
-neo 393 March of Burgeoning Life
-neo 394 Shigeki, Jukai Visionary
-neo 395 Weaver of Harmony
-neo 396 Eiganjo Uprising
-neo 397 Greasefang, Okiba Boss
-neo 398 Hinata, Dawn-Crowned
-neo 399 Satsuki, the Living Lore
-neo 401 Eater of Virtue
-neo 402 Mechtitan Core
-neo 403 Mirror Box
-neo 404 Reckoner Bankbuster
-neo 405 Surgehacker Mech
-neo 407 Kyodai, Soul of Kamigawa
-neo 412 Boseiju, Who Endures
-neo 413 Eiganjo, Seat of the Empire
-neo 414 Otawara, Soaring City
-neo 415 Sokenzan, Crucible of Defiance
-neo 416 Takenuma, Abandoned Mire
-neo 417 Farewell
-neo 425 Risona, Asari Commander
-neo 426 Satoru Umezawa
-neo 429 Hidetsugu, Devouring Chaos
-neo 430 Hidetsugu, Devouring Chaos
-neo 431 Hidetsugu, Devouring Chaos
-neo 432 Hidetsugu, Devouring Chaos
-neo 434 Brilliant Restoration
-neo 435 Cloudsteel Kirin
-neo 436 Farewell
-neo 437 Invoke Justice
-neo 438 Kyodai, Soul of Kamigawa
-neo 439 Light-Paws, Emperor's Voice
-neo 440 Lion Sash
-neo 441 March of Otherworldly Light
-neo 442 The Restoration of Eiganjo // Architect of Restoration
-neo 443 Inventive Iteration // Living Breakthrough
-neo 444 Invoke the Winds
-neo 447 March of Swirling Mist
-neo 448 Mindlink Mech
-neo 449 The Reality Chip
-neo 450 Tameshi, Reality Architect
-neo 451 Thousand-Faced Shadow
-neo 452 Biting-Palm Ninja
-neo 454 Hidetsugu, Devouring Chaos
-neo 455 Invoke Despair
-neo 457 March of Wretched Sorrow
-neo 458 Mukotai Soulripper
-neo 460 Soul Transfer
-neo 461 Tatsunari, Toad Rider
-neo 462 Tribute to Horobi // Echo of Death's Wail
-neo 465 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
-neo 466 Goro-Goro, Disciple of Ryusei
-neo 467 Invoke Calamity
-neo 468 Lizard Blades
-neo 469 March of Reckless Joy
-neo 470 Ogre-Head Helm
-neo 471 Scrap Welder
-neo 472 Thundering Raiju
-neo 473 The Dragon-Kami Reborn // Dragon-Kami's Egg
-neo 474 Invoke the Ancients
-neo 476 Kami of Transience
-neo 479 March of Burgeoning Life
-neo 480 Shigeki, Jukai Visionary
-neo 481 Spring-Leaf Avenger
-neo 482 Teachings of the Kirin // Kirin-Touched Orochi
-neo 483 Weaver of Harmony
-neo 484 Eiganjo Uprising
-neo 485 Greasefang, Okiba Boss
-neo 487 Hinata, Dawn-Crowned
-neo 488 Isshin, Two Heavens as One
-neo 490 Kotose, the Silent Spider
-neo 491 Raiyuu, Storm's Edge
-neo 492 Risona, Asari Commander
-neo 493 Satoru Umezawa
-neo 494 Satsuki, the Living Lore
-neo 496 Eater of Virtue
-neo 497 Mechtitan Core
-neo 498 Mirror Box
-neo 499 Reckoner Bankbuster
-neo 500 Surgehacker Mech
-neo 501 Boseiju, Who Endures
-neo 502 Eiganjo, Seat of the Empire
-neo 503 Otawara, Soaring City
-neo 504 Sokenzan, Crucible of Defiance
-neo 505 Takenuma, Abandoned Mire
-neo 506 Invoke Despair
-neo 507 Satoru Umezawa
+neo 7 https://c1.scryfall.com/file/scryfall-cards/png/front/6/4/64f7a506-0aa1-4c2d-b322-e0e9179d05fb.png?1643989915 Brilliant Restoration
+neo 8 https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a13ddda7-da6e-415e-8886-295514f862d4.png?1643989938 Cloudsteel Kirin
+neo 13 https://c1.scryfall.com/file/scryfall-cards/png/front/e/1/e1068723-d1ef-4007-97d9-b10dccdbade4.png?1643990123 Farewell
+neo 21 https://c1.scryfall.com/file/scryfall-cards/png/front/3/a/3a598ab6-3254-49fe-b69f-e7c759129599.png?1643990555 Invoke Justice
+neo 23 https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cbbfd21e-96f1-4e5b-8546-73bb5a887b98.png?1645264554 Kyodai, Soul of Kamigawa
+neo 25 https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/39555a72-a57b-45ee-9222-ce3b9e8de126.png?1643751611 Light-Paws, Emperor's Voice
+neo 26 https://c1.scryfall.com/file/scryfall-cards/png/front/3/e/3e1766e9-2fa7-4446-a255-7beea1467ece.png?1643990795 Lion Sash
+neo 28 https://c1.scryfall.com/file/scryfall-cards/png/front/5/5/553fb946-2706-475b-89f9-e4355ec9ea2b.png?1643991374 March of Otherworldly Light
+neo 34 https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a11a33ae-e7fa-4bd4-8cd8-3a3239a29bcc.png?1645325777 The Restoration of Eiganjo // Architect of Restoration
+neo 57 https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ea6d3242-8059-4203-aa06-58a6a3925eda.png?1644032495 Inventive Iteration // Living Breakthrough
+neo 58 https://c1.scryfall.com/file/scryfall-cards/png/front/a/d/ad7b423a-bfd1-47aa-bd2c-64a169b96924.png?1643992671 Invoke the Winds
+neo 61 https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/100171d8-7436-44c8-b4cb-0101ffa05c25.png?1643930872 March of Swirling Mist
+neo 62 https://c1.scryfall.com/file/scryfall-cards/png/front/2/8/28273a5b-57b3-4b7a-b017-5886c171c9c9.png?1644078610 Mindlink Mech
+neo 74 https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d859de3a-0be1-4e66-b438-1c3d4ee756cd.png?1643993663 The Reality Chip
+neo 82 https://c1.scryfall.com/file/scryfall-cards/png/front/2/6/26594b52-3e9c-4cde-88df-1f4e9e16676e.png?1643973578 Tameshi, Reality Architect
+neo 86 https://c1.scryfall.com/file/scryfall-cards/png/front/8/9/89a698a5-f4ac-4b04-96dc-32e1eeef6ac7.png?1643993685 Thousand-Faced Shadow
+neo 88 https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/3017df51-67ae-4c3d-8210-086f83bc2040.png?1643326113 Biting-Palm Ninja
+neo 99 https://c1.scryfall.com/file/scryfall-cards/png/front/6/f/6f4142d3-f7ca-4613-a6e5-528cf1f22383.png?1639767325 Hidetsugu, Devouring Chaos
+neo 101 https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.png?1643403604 Invoke Despair
+neo 111 https://c1.scryfall.com/file/scryfall-cards/png/front/0/5/050a604e-6146-4e2e-88a5-863ecb3dfa1f.png?1643751368 March of Wretched Sorrow
+neo 113 https://c1.scryfall.com/file/scryfall-cards/png/front/1/6/166775be-c3b7-4a17-9376-aa4229b147f9.png?1643996508 Mukotai Soulripper
+neo 122 https://c1.scryfall.com/file/scryfall-cards/png/front/1/e/1e5aba90-c8c7-4f06-b7b3-1b4758d2791a.png?1643997351 Soul Transfer
+neo 123 https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/abf42833-43d0-4b05-b499-d13b2c577ee8.png?1643400701 Tatsunari, Toad Rider
+neo 124 https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54613f38-ca91-4764-b1fe-60cd83707fb4.png?1643895810 Tribute to Horobi // Echo of Death's Wail
+neo 141 https://c1.scryfall.com/file/scryfall-cards/png/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.png?1644088621 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+neo 145 https://c1.scryfall.com/file/scryfall-cards/png/front/1/c/1ca736c7-35a9-48c7-b5a9-69b2a6e33ad0.png?1643321133 Goro-Goro, Disciple of Ryusei
+neo 147 https://c1.scryfall.com/file/scryfall-cards/png/front/f/e/fe666c86-6734-4c47-9244-bcd26b54068d.png?1643401788 Invoke Calamity
+neo 153 https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a747e6cf-c687-4c4f-8e07-d51165d6cb62.png?1643401475 Lizard Blades
+neo 154 https://c1.scryfall.com/file/scryfall-cards/png/front/7/8/780e1bf1-e392-40f2-9e84-764dedc5fcd4.png?1644088688 March of Reckless Joy
+neo 155 https://c1.scryfall.com/file/scryfall-cards/png/front/3/a/3a0d5f7d-4e8a-42ad-8875-610004bd9796.png?1644069166 Ogre-Head Helm
+neo 159 https://c1.scryfall.com/file/scryfall-cards/png/front/1/4/14057067-2325-4229-8580-d9a6397ae343.png?1643761141 Scrap Welder
+neo 166 https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/ec1a2920-6d39-4276-921c-65cc16a45f17.png?1643999374 Thundering Raiju
+neo 181 https://c1.scryfall.com/file/scryfall-cards/png/front/2/5/2534caaa-a793-415f-977f-1d0fac3642ab.png?1643325150 The Dragon-Kami Reborn // Dragon-Kami's Egg
+neo 193 https://c1.scryfall.com/file/scryfall-cards/png/front/b/5/b5c02102-3be7-462f-ab9c-ff404255002d.png?1643930770 Invoke the Ancients
+neo 197 https://c1.scryfall.com/file/scryfall-cards/png/front/7/d/7d038a59-e589-45f4-b5ef-6d2f9875d560.png?1643928230 Kami of Transience
+neo 201 https://c1.scryfall.com/file/scryfall-cards/png/front/0/e/0e223d99-408a-413d-abb1-cb2f11ae521d.png?1643847519 March of Burgeoning Life
+neo 206 https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/52a16623-7e6d-405b-95db-bf18aeea3f49.png?1644088801 Shigeki, Jukai Visionary
+neo 208 https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/74b1ba9c-ee62-461f-8422-f791274e2f1c.png?1644000412 Spring-Leaf Avenger
+neo 212 https://c1.scryfall.com/file/scryfall-cards/png/front/4/c/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5.png?1644088836 Teachings of the Kirin // Kirin-Touched Orochi
+neo 213 https://c1.scryfall.com/file/scryfall-cards/png/front/d/1/d1682673-e947-44e2-b9c9-cbcb9a16892b.png?1643750723 Weaver of Harmony
+neo 217 https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/35203138-5237-49aa-a335-7a32829548a1.png?1643759704 Eiganjo Uprising
+neo 220 https://c1.scryfall.com/file/scryfall-cards/png/front/5/6/56a0d43b-4d38-40a7-be6c-8324ab3bf773.png?1644088847 Greasefang, Okiba Boss
+neo 222 https://c1.scryfall.com/file/scryfall-cards/png/front/f/2/f25aff90-56fd-4f70-bb3b-cabf2900c391.png?1643829793 Hinata, Dawn-Crowned
+neo 224 https://c1.scryfall.com/file/scryfall-cards/png/front/a/0/a062a004-984e-4b62-960c-af7288f7a3e9.png?1643846546 Isshin, Two Heavens as One
+neo 228 https://c1.scryfall.com/file/scryfall-cards/png/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.png?1644122878 Kotose, the Silent Spider
+neo 232 https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/37748b74-0eda-4b20-a08f-faa418adb9ff.png?1644032607 Raiyuu, Storm's Edge
+neo 233 https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/51d8f1fa-ca92-4e2e-91e8-195bdad82def.png?1643999946 Risona, Asari Commander
+neo 234 https://c1.scryfall.com/file/scryfall-cards/png/front/8/8/8887f26d-b097-4fbc-9c48-bdc656409a32.png?1640801826 Satoru Umezawa
+neo 235 https://c1.scryfall.com/file/scryfall-cards/png/front/0/1/0152575b-31b0-4142-9cc2-b87a81bd51a8.png?1643592031 Satsuki, the Living Lore
+neo 245 https://c1.scryfall.com/file/scryfall-cards/png/front/3/4/34d92077-d7b2-4996-848f-fd4917e2fb42.png?1644000454 Eater of Virtue
+neo 249 https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/ca286ba9-01a7-4dce-b388-177f5dcb95b1.png?1643662740 Mechtitan Core
+neo 250 https://c1.scryfall.com/file/scryfall-cards/png/front/d/5/d507daa3-3f16-4ab1-81ea-794e5bb488fc.png?1643328965 Mirror Box
+neo 255 https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.png?1643759771 Reckoner Bankbuster
+neo 260 https://c1.scryfall.com/file/scryfall-cards/png/front/3/c/3c4bf679-01cc-4786-a3bd-89c8ae70fdfa.png?1643671124 Surgehacker Mech
+neo 266 https://c1.scryfall.com/file/scryfall-cards/png/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.png?1643517667 Boseiju, Who Endures
+neo 268 https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c375a022-5b57-496d-a802-e4ea8376e9e4.png?1643947076 Eiganjo, Seat of the Empire
+neo 271 https://c1.scryfall.com/file/scryfall-cards/png/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.png?1643754958 Otawara, Soaring City
+neo 276 https://c1.scryfall.com/file/scryfall-cards/png/front/a/a/aa548dcd-c1dd-492d-a69f-c65dfeef0633.png?1643634261 Sokenzan, Crucible of Defiance
+neo 278 https://c1.scryfall.com/file/scryfall-cards/png/front/4/9/499037cc-a577-41cb-8ca2-5e117945634f.png?1643947062 Takenuma, Abandoned Mire
+neo 320 https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/862e9b05-209d-47d6-8692-ec0cb5f19e25.png?1643321461 Goro-Goro, Disciple of Ryusei
+neo 328 https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1bf8b008-3a7c-4b6d-8c18-263a576f0d64.png?1643846595 Isshin, Two Heavens as One
+neo 329 https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/1026485e-3df5-4ac7-baa1-06bff537a506.png?1643591451 Raiyuu, Storm's Edge
+neo 330 https://c1.scryfall.com/file/scryfall-cards/png/front/2/c/2cd32b69-5e1e-4990-88ec-85b21056ceae.png?1644000048 Risona, Asari Commander
+neo 337 https://c1.scryfall.com/file/scryfall-cards/png/front/a/4/a48c2751-fd12-42f2-b8c1-eaf78c5e29eb.png?1643994024 Thousand-Faced Shadow
+neo 338 https://c1.scryfall.com/file/scryfall-cards/png/front/9/2/92f92eb2-84ef-4343-9a31-41479c61a26d.png?1643326180 Biting-Palm Ninja
+neo 345 https://c1.scryfall.com/file/scryfall-cards/png/front/a/8/a89b3345-d09c-46ec-b450-f52fbcac5233.png?1643400759 Tatsunari, Toad Rider
+neo 349 https://c1.scryfall.com/file/scryfall-cards/png/front/7/7/77a144bb-df52-4d55-aecc-8c2ba644a942.png?1643926725 Spring-Leaf Avenger
+neo 351 https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bf89ee78-bcc9-419a-a400-e612b5a90f07.png?1643849770 Kotose, the Silent Spider
+neo 352 https://c1.scryfall.com/file/scryfall-cards/png/front/c/4/c415762a-5b24-4dbb-9066-6e9be48874a6.png?1640363259 Satoru Umezawa
+neo 354 https://c1.scryfall.com/file/scryfall-cards/png/front/5/7/57900858-940f-4d62-8a2c-378e82f4b79c.png?1643665327 The Restoration of Eiganjo // Architect of Restoration
+neo 355 https://c1.scryfall.com/file/scryfall-cards/png/front/c/0/c0f54308-cbfb-484c-bb4d-efc04ef8d9a4.png?1644009785 Inventive Iteration // Living Breakthrough
+neo 356 https://c1.scryfall.com/file/scryfall-cards/png/front/3/d/3d3a26bf-c3e3-40d0-8746-c135b3c4c7d1.png?1643663574 Tribute to Horobi // Echo of Death's Wail
+neo 357 https://c1.scryfall.com/file/scryfall-cards/png/front/0/b/0b696cd1-0d72-4df5-bacc-dc77e62f9a13.png?1643663417 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+neo 358 https://c1.scryfall.com/file/scryfall-cards/png/front/2/d/2d77f095-c04e-4b7f-b1b1-2991a06134e8.png?1643438282 The Dragon-Kami Reborn // Dragon-Kami's Egg
+neo 360 https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d9587550-bb1e-40af-9569-0667f4439452.png?1643401297 Teachings of the Kirin // Kirin-Touched Orochi
+neo 363 https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/820390d7-fabb-4556-8d30-99f0a58b2da5.png?1644004009 Brilliant Restoration
+neo 364 https://c1.scryfall.com/file/scryfall-cards/png/front/9/a/9ace38c6-2cc8-4f72-8276-eb02aa6773e0.png?1643752068 Cloudsteel Kirin
+neo 365 https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/98c664bc-9585-47a7-9514-b3e30a4e1b59.png?1643991654 Farewell
+neo 366 https://c1.scryfall.com/file/scryfall-cards/png/front/c/5/c5c1acbf-5ef0-4677-b097-30db77d87310.png?1643991671 Invoke Justice
+neo 367 https://c1.scryfall.com/file/scryfall-cards/png/front/7/6/76614523-e51a-44ff-83ad-5be9e322697a.png?1644004751 Light-Paws, Emperor's Voice
+neo 368 https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/308c8834-e06e-452a-b82e-cb2b8fe0c304.png?1643991694 Lion Sash
+neo 369 https://c1.scryfall.com/file/scryfall-cards/png/front/a/4/a400cd7d-b004-4310-9787-bbec0fe36fd8.png?1644004759 March of Otherworldly Light
+neo 370 https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/307380fe-7484-4513-8180-f10411ea7726.png?1643994048 Invoke the Winds
+neo 372 https://c1.scryfall.com/file/scryfall-cards/png/front/6/3/633a8eac-82c7-4e02-bff5-1e1095b781ef.png?1644007190 March of Swirling Mist
+neo 373 https://c1.scryfall.com/file/scryfall-cards/png/front/3/7/37163f66-393f-4cb7-9f55-307d3d4b5975.png?1643848117 Mindlink Mech
+neo 374 https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8fb5ee3-97af-40c1-a8de-a2a62afd418d.png?1643994104 The Reality Chip
+neo 375 https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/91c0467d-bc7b-4233-8ac1-adb9d88344fb.png?1643325985 Tameshi, Reality Architect
+neo 378 https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/3981fc94-efb5-4256-8adb-4538515a085c.png?1639712820 Hidetsugu, Devouring Chaos
+neo 379 https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/62e4edbd-4a7c-435b-b7c0-f9cfdd3dff68.png?1643755294 Invoke Despair
+neo 380 https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/4703bba7-3248-410f-99a8-dffd629bab4c.png?1643751423 March of Wretched Sorrow
+neo 381 https://c1.scryfall.com/file/scryfall-cards/png/front/5/3/53d7df77-dc10-4c88-a51e-43d6b86ef10e.png?1643997814 Mukotai Soulripper
+neo 382 https://c1.scryfall.com/file/scryfall-cards/png/front/c/e/ce12642d-85b5-4b40-b1c0-2c08feae2f0a.png?1643997750 Soul Transfer
+neo 384 https://c1.scryfall.com/file/scryfall-cards/png/front/1/2/12af2504-ff1c-4361-a428-be9d1d35899f.png?1643401823 Invoke Calamity
+neo 385 https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f0cadc1b-3434-4c38-b414-0f5ab4ca52a0.png?1643664009 Lizard Blades
+neo 386 https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/ecbd3545-f98e-404e-a283-0ce2d83e64bc.png?1643663945 March of Reckless Joy
+neo 387 https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/517f143d-986a-474e-be48-819d1f9f078c.png?1644032088 Ogre-Head Helm
+neo 388 https://c1.scryfall.com/file/scryfall-cards/png/front/7/9/793c45e2-d0ce-4899-9f7f-5629bd6e01a1.png?1643999620 Scrap Welder
+neo 389 https://c1.scryfall.com/file/scryfall-cards/png/front/c/c/cc6a9bef-6910-4293-87b8-52abcef41566.png?1643999648 Thundering Raiju
+neo 390 https://c1.scryfall.com/file/scryfall-cards/png/front/9/3/93f89fc5-fe77-490b-ba05-34ec0b362801.png?1643931075 Invoke the Ancients
+neo 391 https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/71f10049-8fd2-48f4-9319-d747546cf22d.png?1643928286 Kami of Transience
+neo 393 https://c1.scryfall.com/file/scryfall-cards/png/front/e/d/ed33009e-5686-4de9-9270-d1540ddceb8a.png?1643847544 March of Burgeoning Life
+neo 394 https://c1.scryfall.com/file/scryfall-cards/png/front/6/2/62c303e5-a0af-4e42-afcc-1d3a81c78e8e.png?1643927172 Shigeki, Jukai Visionary
+neo 395 https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7e8c4b17-a804-4340-bb7e-5cd3183ecbef.png?1643750776 Weaver of Harmony
+neo 396 https://c1.scryfall.com/file/scryfall-cards/png/front/7/a/7a560ff4-446e-4dd0-87a6-145a27bdcdb9.png?1643751187 Eiganjo Uprising
+neo 397 https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/9455cb27-89d3-4bb1-8af8-08c7712c2915.png?1644000088 Greasefang, Okiba Boss
+neo 398 https://c1.scryfall.com/file/scryfall-cards/png/front/4/7/4737d299-09ce-4012-b3e9-c93a09035d65.png?1643829848 Hinata, Dawn-Crowned
+neo 399 https://c1.scryfall.com/file/scryfall-cards/png/front/a/0/a0dd5813-8c6e-4fa3-b11d-e13f14ce8c4e.png?1643591486 Satsuki, the Living Lore
+neo 401 https://c1.scryfall.com/file/scryfall-cards/png/front/f/1/f103cb00-29f7-41ad-8368-ed2cf1a408ea.png?1644001280 Eater of Virtue
+neo 402 https://c1.scryfall.com/file/scryfall-cards/png/front/5/0/508b7411-09e5-4990-88ca-649321dd62b5.png?1643615242 Mechtitan Core
+neo 403 https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4bf676a6-8ccb-4908-9e49-ccb4a319d588.png?1643328973 Mirror Box
+neo 404 https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/30bf5955-67fe-4bbf-acd5-164bf087e7a2.png?1643752352 Reckoner Bankbuster
+neo 405 https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f0332502-bcba-42c0-9dfc-9ab873b1719a.png?1643321643 Surgehacker Mech
+neo 407 https://c1.scryfall.com/file/scryfall-cards/png/front/e/5/e500c22f-b16a-431b-8562-1508df7db27e.png?1647145007 Kyodai, Soul of Kamigawa
+neo 412 https://c1.scryfall.com/file/scryfall-cards/png/front/0/0/0055ea30-20fb-4324-a632-8fed87628f05.png?1647145068 Boseiju, Who Endures
+neo 413 https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7c31c48f-6275-4430-8dc9-05d70c332b7a.png?1647145088 Eiganjo, Seat of the Empire
+neo 414 https://c1.scryfall.com/file/scryfall-cards/png/front/9/e/9e99599e-c594-42c6-b9e3-4dbb8e982f88.png?1647145094 Otawara, Soaring City
+neo 415 https://c1.scryfall.com/file/scryfall-cards/png/front/3/2/327333cc-2cc9-44ba-a0e6-d01329c416a3.png?1647145117 Sokenzan, Crucible of Defiance
+neo 416 https://c1.scryfall.com/file/scryfall-cards/png/front/7/b/7bc98705-77c2-47b6-b41c-3e41578700e8.png?1647145118 Takenuma, Abandoned Mire
+neo 417 https://c1.scryfall.com/file/scryfall-cards/png/front/3/9/3956b833-0b74-4890-bc67-4aed7df33af4.png?1644415407 Farewell
+neo 425 https://c1.scryfall.com/file/scryfall-cards/png/front/6/4/64a3d9fd-4023-4f64-b31c-8dab1eec8566.png?1644002981 Risona, Asari Commander
+neo 426 https://c1.scryfall.com/file/scryfall-cards/png/front/2/c/2c178c8d-ef57-4a69-a72d-c6c6f1eda617.png?1644415697 Satoru Umezawa
+neo 434 https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d801eea3-d549-458a-b099-730969bfcba7.png?1647481632 Brilliant Restoration
+neo 435 https://c1.scryfall.com/file/scryfall-cards/png/front/5/e/5ea33e1d-fa3b-4179-9f94-74bc35cdf088.png?1647481692 Cloudsteel Kirin
+neo 436 https://c1.scryfall.com/file/scryfall-cards/png/front/0/0/0050b693-7bad-4c0c-baca-0186d153ce2e.png?1647481727 Farewell
+neo 437 https://c1.scryfall.com/file/scryfall-cards/png/front/0/6/06a2079f-2a87-428f-aefc-f7c075a35598.png?1647481728 Invoke Justice
+neo 438 https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/967c446e-986a-4345-aeec-28f4cd8c801b.png?1647481747 Kyodai, Soul of Kamigawa
+neo 439 https://c1.scryfall.com/file/scryfall-cards/png/front/e/0/e008fe9b-1913-4358-a411-5d3c175c60ba.png?1647481751 Light-Paws, Emperor's Voice
+neo 440 https://c1.scryfall.com/file/scryfall-cards/png/front/8/4/84f8ce4c-c6fc-408c-a216-33374bbfb08d.png?1647481769 Lion Sash
+neo 441 https://c1.scryfall.com/file/scryfall-cards/png/front/2/b/2bbf453c-bded-4d39-bebf-fd240ec44287.png?1647481779 March of Otherworldly Light
+neo 442 https://c1.scryfall.com/file/scryfall-cards/png/front/0/7/070d6344-ee01-4e27-a513-467d8775a853.png?1647552427 The Restoration of Eiganjo // Architect of Restoration
+neo 443 https://c1.scryfall.com/file/scryfall-cards/png/front/2/c/2c3dd148-60d8-4ab3-b71f-b79f2272d78e.png?1647567622 Inventive Iteration // Living Breakthrough
+neo 444 https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7e8832ae-0f84-48f0-a8f2-0bf37c3a6551.png?1647567631 Invoke the Winds
+neo 447 https://c1.scryfall.com/file/scryfall-cards/png/front/3/a/3a5e72c2-e229-43c9-9e5a-df4754732d19.png?1647567686 March of Swirling Mist
+neo 448 https://c1.scryfall.com/file/scryfall-cards/png/front/2/d/2d1e4d50-8ca7-4dc0-8181-aa51beafb218.png?1647567696 Mindlink Mech
+neo 449 https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/9797bb82-24f6-4dd5-8f5d-b3ea45bb65b8.png?1647567706 The Reality Chip
+neo 450 https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/ea28d4c2-279e-4f73-a134-a47b7cc2fa9b.png?1647567722 Tameshi, Reality Architect
+neo 451 https://c1.scryfall.com/file/scryfall-cards/png/front/0/0/00632c03-be00-4722-85b3-2ce31bba5cc6.png?1647567737 Thousand-Faced Shadow
+neo 452 https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/98b1cd2e-cea3-41c6-9fd2-1b473d5f61a7.png?1647646568 Biting-Palm Ninja
+neo 454 https://c1.scryfall.com/file/scryfall-cards/png/front/e/9/e9655d9c-d4fb-4ced-b841-543eb4d88d2f.png?1647646624 Hidetsugu, Devouring Chaos
+neo 455 https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/359445e8-2f4a-4e73-9201-2c7a11d26666.png?1647646632 Invoke Despair
+neo 457 https://c1.scryfall.com/file/scryfall-cards/png/front/7/0/70647c5f-e2ce-43e0-8715-0648e206caf8.png?1647646652 March of Wretched Sorrow
+neo 458 https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e64d99c1-a6ad-4ab8-abb9-4845f7945f08.png?1647646663 Mukotai Soulripper
+neo 460 https://c1.scryfall.com/file/scryfall-cards/png/front/b/3/b35ce3d2-8e7b-412a-abde-9885ca4e7a64.png?1647646682 Soul Transfer
+neo 461 https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/52b9c95e-6691-4736-bfbd-0932458f03c6.png?1647646694 Tatsunari, Toad Rider
+neo 462 https://c1.scryfall.com/file/scryfall-cards/png/front/d/8/d8f1b467-3cfe-4fab-bfd1-b7ac856d608c.png?1647646706 Tribute to Horobi // Echo of Death's Wail
+neo 465 https://c1.scryfall.com/file/scryfall-cards/png/front/6/d/6dee0388-a78d-4b3c-a0c5-25655e14115e.png?1647650242 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+neo 466 https://c1.scryfall.com/file/scryfall-cards/png/front/d/3/d398246a-dc65-4096-b4b7-46ddff38372e.png?1647650262 Goro-Goro, Disciple of Ryusei
+neo 467 https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/99ff8eec-5510-4c57-91c1-ec380fdd7f8e.png?1647650406 Invoke Calamity
+neo 468 https://c1.scryfall.com/file/scryfall-cards/png/front/9/d/9d20833a-ebdf-4daa-8220-ea95758d41b5.png?1647650395 Lizard Blades
+neo 469 https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/87ec97d1-3b8c-4441-b6bc-836be5f8a015.png?1647650382 March of Reckless Joy
+neo 470 https://c1.scryfall.com/file/scryfall-cards/png/front/2/e/2eecab66-d600-49d5-8b5a-f70872375d8b.png?1647650368 Ogre-Head Helm
+neo 471 https://c1.scryfall.com/file/scryfall-cards/png/front/7/6/76866cc1-06a4-4d1d-bbec-724109fa6c93.png?1647650328 Scrap Welder
+neo 472 https://c1.scryfall.com/file/scryfall-cards/png/front/d/4/d49d17cf-242b-4f44-8ea0-125d9d18139c.png?1647650316 Thundering Raiju
+neo 473 https://c1.scryfall.com/file/scryfall-cards/png/front/f/5/f57cb819-1d76-4cbc-bbcd-45e52bd89e04.png?1647656869 The Dragon-Kami Reborn // Dragon-Kami's Egg
+neo 474 https://c1.scryfall.com/file/scryfall-cards/png/front/5/5/5564dc16-22f1-428a-8c49-ecc7de13d4a6.png?1647656905 Invoke the Ancients
+neo 476 https://c1.scryfall.com/file/scryfall-cards/png/front/1/c/1c5bfeaf-ed02-4bf3-a36a-58feda05d992.png?1647657031 Kami of Transience
+neo 479 https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/36efdf01-9e6f-4963-887a-9018df56ced4.png?1647657153 March of Burgeoning Life
+neo 480 https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bdd634f0-2373-4747-8b16-92dbf279e1ff.png?1647657165 Shigeki, Jukai Visionary
+neo 481 https://c1.scryfall.com/file/scryfall-cards/png/front/2/0/209115ac-06ef-4d3f-9550-5e9eda081079.png?1647657179 Spring-Leaf Avenger
+neo 482 https://c1.scryfall.com/file/scryfall-cards/png/front/a/f/af77b3e8-298e-4f85-8fc0-93ffa8c0dc6a.png?1647657197 Teachings of the Kirin // Kirin-Touched Orochi
+neo 483 https://c1.scryfall.com/file/scryfall-cards/png/front/3/0/3009fad8-40cb-4421-9fa8-fd525c5f7189.png?1647657213 Weaver of Harmony
+neo 484 https://c1.scryfall.com/file/scryfall-cards/png/front/b/3/b33d6851-f110-46aa-a4ed-f657d2d2eceb.png?1647734957 Eiganjo Uprising
+neo 485 https://c1.scryfall.com/file/scryfall-cards/png/front/0/2/020a4094-e5d8-477b-930f-f7ab98dc9fb1.png?1647734972 Greasefang, Okiba Boss
+neo 487 https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/466f98c4-c5a7-4fad-b183-a3fbd28cb66b.png?1647735083 Hinata, Dawn-Crowned
+neo 488 https://c1.scryfall.com/file/scryfall-cards/png/front/f/2/f26eeb39-77ab-4e60-8b10-1420e755c372.png?1647735095 Isshin, Two Heavens as One
+neo 490 https://c1.scryfall.com/file/scryfall-cards/png/front/d/a/dabc4c53-365e-412e-8ce4-a9e67d12c33f.png?1647735169 Kotose, the Silent Spider
+neo 491 https://c1.scryfall.com/file/scryfall-cards/png/front/c/8/c89f16b7-fcfb-44a9-b05f-a77a157a9865.png?1647735174 Raiyuu, Storm's Edge
+neo 492 https://c1.scryfall.com/file/scryfall-cards/png/front/e/f/ef5db6d6-c8b4-4c38-8b94-f455f148cf3f.png?1647735187 Risona, Asari Commander
+neo 493 https://c1.scryfall.com/file/scryfall-cards/png/front/6/3/63fb4d0a-f979-42ed-a4aa-15c180e4f0be.png?1647735200 Satoru Umezawa
+neo 494 https://c1.scryfall.com/file/scryfall-cards/png/front/8/0/80aa5a9e-5152-4dc0-9a98-089a3d4d7dda.png?1647735223 Satsuki, the Living Lore
+neo 496 https://c1.scryfall.com/file/scryfall-cards/png/front/8/7/87a86f45-ba70-48b4-a2e9-8269ec22b991.png?1647803839 Eater of Virtue
+neo 497 https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/9430b849-cee9-4fda-84c1-0777db82fe58.png?1647803854 Mechtitan Core
+neo 498 https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b8354b07-8dac-44bb-871f-3c8f60a20d1c.png?1647803871 Mirror Box
+neo 499 https://c1.scryfall.com/file/scryfall-cards/png/front/8/c/8c5d9a22-0111-40ba-8d9e-a36bd84a39c3.png?1647803898 Reckoner Bankbuster
+neo 500 https://c1.scryfall.com/file/scryfall-cards/png/front/2/6/26ce02c6-0918-41a7-9286-7a0bdc0f166e.png?1647803911 Surgehacker Mech
+neo 501 https://c1.scryfall.com/file/scryfall-cards/png/front/2/4/2488a80b-6882-4b59-8232-f02f800204a9.png?1647809455 Boseiju, Who Endures
+neo 502 https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/ecb53f59-d89b-481c-af98-75c11c30ee17.png?1647809471 Eiganjo, Seat of the Empire
+neo 503 https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/dbcdbf15-7578-465e-afa2-f65c01fb4802.png?1647809484 Otawara, Soaring City
+neo 504 https://c1.scryfall.com/file/scryfall-cards/png/front/e/c/eca9f8ae-838f-4a9c-9341-38e39da68926.png?1647809494 Sokenzan, Crucible of Defiance
+neo 505 https://c1.scryfall.com/file/scryfall-cards/png/front/1/3/13410bd5-acee-4cc9-90e3-dbcf8415bcaf.png?1647809511 Takenuma, Abandoned Mire
+neo 506 https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/dbe6d3be-67b9-45be-a5c8-4edf753a7fd0.png?1643755350 Invoke Despair
+neo 507 https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7112729-908e-430d-8e0e-eb71a9043309.png?1646259831 Satoru Umezawa

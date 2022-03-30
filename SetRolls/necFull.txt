@@ -1,76 +1,77 @@
-nec 1 Chishiro, the Shattered Blade
-nec 2 Kotori, Pilot Prodigy
-nec 3 Kaima, the Fractured Calm
-nec 4 Shorikai, Genesis Engine
-nec 5 Aerial Surveyor
-nec 6 Drumbellower
-nec 7 Ironsoul Enforcer
-nec 8 Organic Extinction
-nec 9 Release to Memory
-nec 10 Swift Reconfiguration
-nec 11 Access Denied
-nec 12 Cyberdrive Awakener
-nec 13 Imposter Mech
-nec 14 Kappa Cannoneer
-nec 15 Katsumasa, the Animator
-nec 16 Research Thief
-nec 17 Universal Surveillance
-nec 18 Akki Battle Squad
-nec 19 Collision of Realms
-nec 20 Kami of Celebration
-nec 21 Komainu Battle Armor
-nec 22 Smoke Spirits' Aid
-nec 23 Unquenchable Fury
-nec 24 Ascendant Acolyte
-nec 25 Concord with the Kami
-nec 26 Kosei, Penitent Warlord
-nec 27 One with the Kami
-nec 28 Rampant Rejuvenator
-nec 29 Silkguard
-nec 30 Tanuki Transplanter
-nec 31 Myojin of Blooming Dawn
-nec 32 Yoshimaru, Ever Faithful
-nec 33 Myojin of Cryptic Dreams
-nec 34 Myojin of Grim Betrayal
-nec 35 Ruthless Technomancer
-nec 36 Myojin of Roaring Blades
-nec 37 Go-Shintai of Life's Origin
-nec 38 Myojin of Towering Might
-nec 39 Aerial Surveyor
-nec 40 Drumbellower
-nec 41 Ironsoul Enforcer
-nec 42 Myojin of Blooming Dawn
-nec 43 Organic Extinction
-nec 44 Release to Memory
-nec 45 Swift Reconfiguration
-nec 46 Yoshimaru, Ever Faithful
-nec 47 Access Denied
-nec 48 Cyberdrive Awakener
-nec 49 Imposter Mech
-nec 50 Kappa Cannoneer
-nec 51 Katsumasa, the Animator
-nec 52 Myojin of Cryptic Dreams
-nec 53 Research Thief
-nec 54 Universal Surveillance
-nec 55 Myojin of Grim Betrayal
-nec 56 Ruthless Technomancer
-nec 57 Akki Battle Squad
-nec 58 Collision of Realms
-nec 59 Kami of Celebration
-nec 60 Komainu Battle Armor
-nec 61 Myojin of Roaring Blades
-nec 62 Smoke Spirits' Aid
-nec 63 Unquenchable Fury
-nec 64 Ascendant Acolyte
-nec 65 Concord with the Kami
-nec 66 Go-Shintai of Life's Origin
-nec 67 Kosei, Penitent Warlord
-nec 68 Myojin of Towering Might
-nec 69 One with the Kami
-nec 70 Rampant Rejuvenator
-nec 71 Silkguard
-nec 72 Tanuki Transplanter
-nec 73 Chishiro, the Shattered Blade
-nec 74 Kaima, the Fractured Calm
-nec 75 Kotori, Pilot Prodigy
-nec 76 Shorikai, Genesis Engine
+nec 1 https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.png?1644346882 Chishiro, the Shattered Blade
+nec 2 https://c1.scryfall.com/file/scryfall-cards/png/front/f/e/fea6c1c8-eff9-4b66-b96d-e23016f0bb62.png?1644346891 Kotori, Pilot Prodigy
+nec 3 https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/467033f7-8d59-4b80-8c2e-c36f3ad93438.png?1644346889 Kaima, the Fractured Calm
+nec 4 https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/969ac7dd-f3aa-4888-9ff0-d16a31b5e7a9.png?1644346891 Shorikai, Genesis Engine
+nec 5 https://c1.scryfall.com/file/scryfall-cards/png/front/7/c/7c474f31-336d-44df-a7da-27aefd220e22.png?1644252916 Aerial Surveyor
+nec 6 https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/718c7383-d2e0-449b-b5b5-378d7c6e1fcb.png?1644253037 Drumbellower
+nec 7 https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c2c0dfeb-2af0-4c91-bdfe-5270f64dff03.png?1644252765 Ironsoul Enforcer
+nec 8 https://c1.scryfall.com/file/scryfall-cards/png/front/f/e/fea0f8be-c242-49dd-bae3-0b306107ac0b.png?1644252698 Organic Extinction
+nec 9 https://c1.scryfall.com/file/scryfall-cards/png/front/b/4/b45c4bbf-2c61-4d49-96c8-34a0fb0d6d02.png?1645035932 Release to Memory
+nec 10 https://c1.scryfall.com/file/scryfall-cards/png/front/9/7/975dcfab-0281-4fee-92aa-021ea6c524c7.png?1645557998 Swift Reconfiguration
+nec 11 https://c1.scryfall.com/file/scryfall-cards/png/front/1/6/1642df77-6fe8-47cf-b750-ca4dd9b331ba.png?1644252459 Access Denied
+nec 12 https://c1.scryfall.com/file/scryfall-cards/png/front/2/a/2a2c0a2f-07fb-4cc0-9b99-e5ff4303028d.png?1644252371 Cyberdrive Awakener
+nec 13 https://c1.scryfall.com/file/scryfall-cards/png/front/5/9/59b7450c-3163-4f12-9af1-2e998a6c36cf.png?1645036052 Imposter Mech
+nec 14 https://c1.scryfall.com/file/scryfall-cards/png/front/8/5/85a89077-b384-4fca-9d26-7297962c1541.png?1644252206 Kappa Cannoneer
+nec 15 https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/ab4b5ff5-fd6a-4948-9c54-440bf6324bd1.png?1644252141 Katsumasa, the Animator
+nec 16 https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d0ef159d-657a-4566-b9e0-f545df230025.png?1644321675 Research Thief
+nec 17 https://c1.scryfall.com/file/scryfall-cards/png/front/4/b/4b2f5584-df67-439b-b0f0-9c0fdf62f18f.png?1644346419 Universal Surveillance
+nec 18 https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/ca624ce6-5b99-41af-8e26-b952f5a30916.png?1644251621 Akki Battle Squad
+nec 19 https://c1.scryfall.com/file/scryfall-cards/png/front/4/9/49618217-1bbb-498a-a6f0-f269ce7166a6.png?1644251512 Collision of Realms
+nec 20 https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bda67054-bbd8-4979-801a-a5e9ca335f49.png?1644251403 Kami of Celebration
+nec 21 https://c1.scryfall.com/file/scryfall-cards/png/front/d/6/d6ecab4b-fcff-4cf9-8e26-f3c609179050.png?1644251319 Komainu Battle Armor
+nec 22 https://c1.scryfall.com/file/scryfall-cards/png/front/e/4/e492a245-46ba-438e-8d81-4626faa49bff.png?1644250947 Smoke Spirits' Aid
+nec 23 https://c1.scryfall.com/file/scryfall-cards/png/front/d/b/db6b3f71-d833-4548-8d66-1d51da08d8b9.png?1645036068 Unquenchable Fury
+nec 24 https://c1.scryfall.com/file/scryfall-cards/png/front/9/1/918a9e38-29ec-4279-8cf6-f01141497cab.png?1644346436 Ascendant Acolyte
+nec 25 https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c3e38dec-178b-497a-bfbd-371905690a39.png?1644297760 Concord with the Kami
+nec 26 https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/82291f66-f4f0-4542-992e-8342e90033da.png?1644528523 Kosei, Penitent Warlord
+nec 27 https://c1.scryfall.com/file/scryfall-cards/png/front/d/7/d753c296-8cef-492d-ab41-e7ddb233d46e.png?1644250265 One with the Kami
+nec 28 https://c1.scryfall.com/file/scryfall-cards/png/front/1/6/16b06b17-f256-428f-9bed-f115af270f27.png?1644250211 Rampant Rejuvenator
+nec 29 https://c1.scryfall.com/file/scryfall-cards/png/front/d/4/d4373a89-b571-46e2-9021-02aa4cdbb3b0.png?1644250139 Silkguard
+nec 30 https://c1.scryfall.com/file/scryfall-cards/png/front/4/5/45ea5ead-9fd8-4909-96aa-d4e970891c93.png?1644297783 Tanuki Transplanter
+nec 31 https://c1.scryfall.com/file/scryfall-cards/png/front/a/f/afd718b5-040b-4bb7-9f0c-b72373d786d4.png?1643929125 Myojin of Blooming Dawn
+nec 32 https://c1.scryfall.com/file/scryfall-cards/png/front/a/a/aa409269-3698-42a2-8c51-75557b27a6f6.png?1645036326 Yoshimaru, Ever Faithful
+nec 33 https://c1.scryfall.com/file/scryfall-cards/png/front/3/1/31142a36-3676-4ce4-9f5b-d9252fc30739.png?1643929208 Myojin of Cryptic Dreams
+nec 34 https://c1.scryfall.com/file/scryfall-cards/png/front/3/f/3fa18695-e10f-4dd5-b116-8a9891e58c20.png?1643929446 Myojin of Grim Betrayal
+nec 35 https://c1.scryfall.com/file/scryfall-cards/png/front/d/d/dddeb5cc-b535-4484-8a0e-ce32c4c09000.png?1643929835 Ruthless Technomancer
+nec 36 https://c1.scryfall.com/file/scryfall-cards/png/front/1/b/1b948181-4688-455c-97ae-990d0ec50f1d.png?1643930056 Myojin of Roaring Blades
+nec 37 https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/9476fe67-d2d3-4835-8ba6-2a17d18cc141.png?1643961551 Go-Shintai of Life's Origin
+nec 38 https://c1.scryfall.com/file/scryfall-cards/png/front/5/4/54803ba5-a2d7-4997-8e76-298aff6e1aff.png?1643941237 Myojin of Towering Might
+nec 39 https://c1.scryfall.com/file/scryfall-cards/png/front/5/c/5c44a4c9-5f65-4fa9-835a-6ab5a33ba190.png?1644345789 Aerial Surveyor
+nec 40 https://c1.scryfall.com/file/scryfall-cards/png/front/2/f/2f38d65a-f870-4fe8-b9aa-9203cf5235ae.png?1644345814 Drumbellower
+nec 41 https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a1dd6730-b869-40fe-9188-c762a663b5e9.png?1644345838 Ironsoul Enforcer
+nec 42 https://c1.scryfall.com/file/scryfall-cards/png/front/b/3/b35f30b7-5dc1-4e15-b83c-96ca8bfa7f1c.png?1643930022 Myojin of Blooming Dawn
+nec 43 https://c1.scryfall.com/file/scryfall-cards/png/front/1/f/1f8761b6-784f-4b64-bbb2-6062f289cf6c.png?1644345867 Organic Extinction
+nec 44 https://c1.scryfall.com/file/scryfall-cards/png/front/a/a/aa1b6503-e3a2-42df-830b-b96f5121d532.png?1644345890 Release to Memory
+nec 45 https://c1.scryfall.com/file/scryfall-cards/png/front/0/b/0bd0b431-534d-4ab7-93ed-b9a25259e88e.png?1644345912 Swift Reconfiguration
+nec 46 https://c1.scryfall.com/file/scryfall-cards/png/front/8/4/84dcd364-38c1-4987-a066-1c4d4533912e.png?1643929892 Yoshimaru, Ever Faithful
+nec 47 https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fa019966-96e5-430d-976e-aed09c8a69e3.png?1644345932 Access Denied
+nec 48 https://c1.scryfall.com/file/scryfall-cards/png/front/3/8/38520f20-a581-439f-9df2-ea4f482af327.png?1644345953 Cyberdrive Awakener
+nec 49 https://c1.scryfall.com/file/scryfall-cards/png/front/e/5/e544d75c-d4ce-4c15-a71c-1282b3c54f81.png?1644345981 Imposter Mech
+nec 50 https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/712751fa-748e-4018-a9f5-fb83a706c570.png?1644346006 Kappa Cannoneer
+nec 51 https://c1.scryfall.com/file/scryfall-cards/png/front/1/e/1ea2eecf-7651-42fc-b770-c3a9f9dd4bbc.png?1644346033 Katsumasa, the Animator
+nec 52 https://c1.scryfall.com/file/scryfall-cards/png/front/1/8/180b5ea6-2f7c-444d-b8f6-8e141c8d55ac.png?1643930051 Myojin of Cryptic Dreams
+nec 53 https://c1.scryfall.com/file/scryfall-cards/png/front/1/0/10ea3e92-0ace-4b98-9174-45516804fc30.png?1644346059 Research Thief
+nec 54 https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d90b8f10-d7e5-4e1c-86c9-c69dc7f34f24.png?1644346081 Universal Surveillance
+nec 55 https://c1.scryfall.com/file/scryfall-cards/png/front/1/c/1c366536-0fa7-4623-b0b5-a4da4684158f.png?1643930081 Myojin of Grim Betrayal
+nec 56 https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b6f8e7b9-d90b-40a5-88f4-4edfae0d01f7.png?1643929861 Ruthless Technomancer
+nec 57 https://c1.scryfall.com/file/scryfall-cards/png/front/b/2/b2a2b1f5-bbc7-4af1-b1c8-21570b141cba.png?1644346108 Akki Battle Squad
+nec 58 https://c1.scryfall.com/file/scryfall-cards/png/front/7/e/7ea73973-a77e-4048-ac9e-f40e8d143067.png?1644346140 Collision of Realms
+nec 59 https://c1.scryfall.com/file/scryfall-cards/png/front/3/f/3f969b1f-5f39-4777-b41f-5f7604595672.png?1644346825 Kami of Celebration
+nec 60 https://c1.scryfall.com/file/scryfall-cards/png/front/9/b/9bb1be37-0d25-4652-a2ea-5c648960741b.png?1644346851 Komainu Battle Armor
+nec 61 https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/98655831-dd02-41af-b8d5-de789bde9887.png?1643930105 Myojin of Roaring Blades
+nec 62 https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cbcade55-8ae3-4ac0-b2a9-f890b83ed530.png?1644346362 Smoke Spirits' Aid
+nec 63 https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/468864b4-d10f-4920-af05-ba107fe54a25.png?1644346383 Unquenchable Fury
+nec 64 https://c1.scryfall.com/file/scryfall-cards/png/front/9/8/98342ed6-46ac-4242-a00d-1543429b232d.png?1644346399 Ascendant Acolyte
+nec 65 https://c1.scryfall.com/file/scryfall-cards/png/front/c/4/c453026f-8a63-46f5-8b7a-720e0ec95858.png?1644346417 Concord with the Kami
+nec 66 https://c1.scryfall.com/file/scryfall-cards/png/front/d/7/d761ff73-0717-4ee4-996b-f5547bcf9b2f.png?1643929991 Go-Shintai of Life's Origin
+nec 67 https://c1.scryfall.com/file/scryfall-cards/png/front/4/9/49db5812-49f7-452a-8f1d-88e6fb4880f3.png?1644346435 Kosei, Penitent Warlord
+nec 68 https://c1.scryfall.com/file/scryfall-cards/png/front/6/8/68cee42a-c98e-4e22-8b88-c1c480e52223.png?1643930130 Myojin of Towering Might
+nec 69 https://c1.scryfall.com/file/scryfall-cards/png/front/1/6/16fcc1a2-f8e0-4126-81ef-4481985cf0bf.png?1644346453 One with the Kami
+nec 70 https://c1.scryfall.com/file/scryfall-cards/png/front/3/3/33553e55-be06-4944-9662-268342eae58f.png?1644346471 Rampant Rejuvenator
+nec 71 https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/99058730-b383-47b3-9c9b-2476200c992c.png?1644346494 Silkguard
+nec 72 https://c1.scryfall.com/file/scryfall-cards/png/front/b/c/bc102a4a-8f37-42ad-98ee-e7035d2ff71f.png?1644346511 Tanuki Transplanter
+nec 73 https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/eaacd338-1040-4d61-977e-7c97d0f26724.png?1644346732 Chishiro, the Shattered Blade
+nec 74 https://c1.scryfall.com/file/scryfall-cards/png/front/c/4/c4deb32e-6890-4f93-a580-cf1758ffcd20.png?1644346544 Kaima, the Fractured Calm
+nec 75 https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b847d395-d8b4-438c-8188-6c3074af1ccd.png?1644346749 Kotori, Pilot Prodigy
+nec 76 https://c1.scryfall.com/file/scryfall-cards/png/front/0/3/0347cf84-42f5-4674-99de-619b0ae51d62.png?1644346567 Shorikai, Genesis Engine
+nec 77 https://c1.scryfall.com/file/scryfall-cards/png/front/3/3/3305c70f-188a-4c01-b605-d583ded84e18.png?1644730678 Chishiro, the Shattered Blade

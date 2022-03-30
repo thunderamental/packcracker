@@ -1,0 +1,19 @@
+tneo 1 https://c1.scryfall.com/file/scryfall-cards/png/front/b/e/be84f259-2809-48c9-9c70-861437f08c23.png?1644542924 Pilot
+tneo 2 https://c1.scryfall.com/file/scryfall-cards/png/front/c/a/ca20548f-6324-4858-adbe-87303ff1ca52.png?1644542803 Spirit
+tneo 3 https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f68e5337-6e44-4f8f-a102-2f97b433beea.png?1644542564 Samurai
+tneo 4 https://c1.scryfall.com/file/scryfall-cards/png/front/1/4/14eb629e-f09f-4deb-b434-7615a3010a4d.png?1644542606 Ninja
+tneo 5 https://c1.scryfall.com/file/scryfall-cards/png/front/6/9/695f72ea-13e6-40ab-afc7-55657701c82d.png?1644542644 Rat Rogue
+tneo 6 https://c1.scryfall.com/file/scryfall-cards/png/front/c/b/cbafdfc0-380a-482b-b5f8-a7a00ecf8da6.png?1644542843 Construct
+tneo 7 https://c1.scryfall.com/file/scryfall-cards/png/front/a/4/a4c06e08-2026-471d-a6d0-bbb0f040420a.png?1644542956 Dragon Spirit
+tneo 8 https://c1.scryfall.com/file/scryfall-cards/png/front/0/d/0d9461c3-f545-4efb-926e-759961db0495.png?1644543098 Goblin Shaman
+tneo 9 https://c1.scryfall.com/file/scryfall-cards/png/front/c/2/c20e427c-efa5-476c-aa33-e3149648d207.png?1644542690 Spirit
+tneo 10 https://c1.scryfall.com/file/scryfall-cards/png/front/8/6/86dd086e-c757-4a6a-8838-51860f2095f8.png?1644542713 Human Monk
+tneo 11 https://c1.scryfall.com/file/scryfall-cards/png/front/0/f/0f48aaab-dd6e-4bcc-a8fb-d31dd4a098ba.png?1644542872 Spirit
+tneo 12 https://c1.scryfall.com/file/scryfall-cards/png/front/d/2/d237377d-b79b-4f27-a142-e2c1756e0d94.png?1644542987 Spirit
+tneo 13 https://c1.scryfall.com/file/scryfall-cards/png/front/f/b/fbb5b3f9-0012-4deb-b795-c377cdfe546b.png?1644542759 Keimi
+tneo 14 https://c1.scryfall.com/file/scryfall-cards/png/front/0/2/0281825d-9d38-4b56-b522-a8d3cf8c77c9.png?1643668066 Mechtitan
+tneo 15 https://c1.scryfall.com/file/scryfall-cards/png/front/2/7/2770f887-7e96-44d1-864a-8c0504a39785.png?1644542778 Construct
+tneo 16 https://c1.scryfall.com/file/scryfall-cards/png/front/9/9/992cb1e0-e846-4710-b49e-a748e4ebffa5.png?1644543067 Tamiyo's Notebook
+tneo 17 https://c1.scryfall.com/file/scryfall-cards/png/front/6/9/6911181d-573b-41eb-96a4-799c96e008fc.png?1644542893 Treasure
+tneo 18 https://c1.scryfall.com/file/scryfall-cards/png/front/d/f/df296190-e51b-44a7-ae83-279fee3151a5.png?1644543190 Kaito Shizuki Emblem
+tneo 19 https://c1.scryfall.com/file/scryfall-cards/png/front/b/d/bdb4fa32-18dd-4530-a529-5477e45413dd.png?1644543224 Tezzeret, Betrayer of Flesh Emblem

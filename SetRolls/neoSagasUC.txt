@@ -1,14 +1,14 @@
-neo 4 Befriending the Moths // Imperial Moth
-neo 11 Era of Enlightenment // Hand of Enlightenment
-neo 12 The Fall of Lord Konda // Fragment of Konda
-neo 29 Michiko's Reign of Truth // Portrait of Michiko
-neo 48 Behold the Unspeakable // Vision of the Unspeakable
-neo 66 The Modern Age // Vector Glider
-neo 108 Life of Toshiro Umezawa // Memory of Toshiro
-neo 109 The Long Reach of Night // Animus of Night's Reach
-neo 117 Okiba Reckoner Raid // Nezumi Road Captain
-neo 152 Kumano Faces Kakkazan // Etching of Kumano
-neo 162 The Shattered States Era // Nameless Conqueror
-neo 172 Azusa's Many Journeys // Likeness of the Seeker
-neo 177 Boseiju Reaches Skyward // Branch of Boseiju
-neo 210 Tales of Master Seshiro // Seshiro's Living Legacy
+neo 4 https://c1.scryfall.com/file/scryfall-cards/png/front/8/a/8ad44884-ae0d-40ae-87a9-bad043d4e9ad.png?1645325692 Befriending the Moths // Imperial Moth
+neo 11 https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7.png?1645325706 Era of Enlightenment // Hand of Enlightenment
+neo 12 https://c1.scryfall.com/file/scryfall-cards/png/front/4/d/4d784409-df6d-45d4-8f8b-6e3fd57a8fde.png?1645325720 The Fall of Lord Konda // Fragment of Konda
+neo 29 https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/74f12c23-5c15-4ae6-8f4d-c5e6c1878817.png?1645325741 Michiko's Reign of Truth // Portrait of Michiko
+neo 48 https://c1.scryfall.com/file/scryfall-cards/png/front/e/4/e4d52701-e0dc-474e-b08f-88147200d210.png?1643325590 Behold the Unspeakable // Vision of the Unspeakable
+neo 66 https://c1.scryfall.com/file/scryfall-cards/png/front/e/e/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5.png?1643318826 The Modern Age // Vector Glider
+neo 108 https://c1.scryfall.com/file/scryfall-cards/png/front/f/7/f7f4adf7-b871-417b-8904-7f024ca21486.png?1643329296 Life of Toshiro Umezawa // Memory of Toshiro
+neo 109 https://c1.scryfall.com/file/scryfall-cards/png/front/4/e/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b.png?1643928945 The Long Reach of Night // Animus of Night's Reach
+neo 117 https://c1.scryfall.com/file/scryfall-cards/png/front/4/f/4f0582b4-d951-4450-b158-4a34109e48cd.png?1643759759 Okiba Reckoner Raid // Nezumi Road Captain
+neo 152 https://c1.scryfall.com/file/scryfall-cards/png/front/2/8/28d92cad-45b0-479d-97fc-c175f3a3f259.png?1643931768 Kumano Faces Kakkazan // Etching of Kumano
+neo 162 https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/517392f6-d3fd-4c59-8317-2a3595ab7562.png?1643409229 The Shattered States Era // Nameless Conqueror
+neo 172 https://c1.scryfall.com/file/scryfall-cards/png/front/e/8/e8a51d2a-1582-4bad-995c-e7fe9f810149.png?1643319744 Azusa's Many Journeys // Likeness of the Seeker
+neo 177 https://c1.scryfall.com/file/scryfall-cards/png/front/1/1/1144014b-f13b-4397-97ed-a8de46371a2c.png?1643325316 Boseiju Reaches Skyward // Branch of Boseiju
+neo 210 https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/512bc867-3a86-4da2-93f0-dd76d6a6f30d.png?1644088826 Tales of Master Seshiro // Seshiro's Living Legacy

@@ -148,7 +148,7 @@ function rollListCard() {
         case (seed > 0.75):
             slot = "List card";
     }
-    return [seed, slot];
+    return roll("tneoAll");
 }
 
 function rollSixCU() { // split this function, DEPRECATED!
@@ -193,10 +193,11 @@ function extractSet(booster) {
     res.push(booster['land']);
     res.push(booster['list']);
     cardIDs = [];
-    console.log(res);
-    for (let i = 0; i < (res.length - 1); i++) {
-        console.log(res[i])
-        cardIDs.push(res[i].split(' ').slice(0,2))
+    
+    // console.log(res);
+    for (let i = 0; i < (res.length); i++) {
+        
+        cardIDs.push(res[i].split(' ').slice(0,3))
     }
     return cardIDs;
 }
@@ -216,8 +217,10 @@ function rollSetBoosterDistribution() {
         land : rollLandSlot(),
         list : rollListCard()
     };
-    console.log(booster)
+    //console.log(booster)
+    
     console.log(extractSet(booster))
+    
     return [packID,booster,extractSet(booster)];
 }
 

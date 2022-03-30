@@ -1,67 +1,67 @@
-neo 2 Ao, the Dawn Sky
-neo 42 The Wandering Emperor
-neo 59 Jin-Gitaxias, Progress Tyrant
-neo 60 Kairi, the Swirling Sky
-neo 84 Tezzeret, Betrayer of Flesh
-neo 89 Blade of the Oni
-neo 102 Junji, the Midnight Sky
-neo 114 Nashi, Moon Sage's Scion
-neo 134 Atsushi, the Blazing Sky
-neo 140 Explosive Singularity
-neo 194 Jugan Defends the Temple // Remnant of the Rising Star
-neo 199 Kodama of the West Tree
-neo 200 Kura, the Boundless Sky
-neo 221 Hidetsugu Consumes All // Vessel of the All-Consuming
-neo 226 Kaito Shizuki
-neo 227 The Kami War // O-Kagachi Made Manifest
-neo 237 Spirit-Sister's Call
-neo 238 Tamiyo, Compleated Sage
-neo 303 The Wandering Emperor
-neo 304 Tezzeret, Betrayer of Flesh
-neo 305 Kaito Shizuki
-neo 306 Tamiyo, Compleated Sage
-neo 307 Jin-Gitaxias, Progress Tyrant
-neo 308 Tamiyo, Compleated Sage
-neo 316 The Wandering Emperor
-neo 343 Nashi, Moon Sage's Scion
-neo 350 Kaito Shizuki
-neo 359 Jugan Defends the Temple // Remnant of the Rising Star
-neo 361 Hidetsugu Consumes All // Vessel of the All-Consuming
-neo 362 The Kami War // O-Kagachi Made Manifest
-neo 371 Jin-Gitaxias, Progress Tyrant
-neo 376 Tezzeret, Betrayer of Flesh
-neo 377 Blade of the Oni
-neo 383 Explosive Singularity
-neo 392 Kodama of the West Tree
-neo 400 Spirit-Sister's Call
-neo 406 Ao, the Dawn Sky
-neo 408 Kairi, the Swirling Sky
-neo 409 Junji, the Midnight Sky
-neo 410 Atsushi, the Blazing Sky
-neo 411 Kura, the Boundless Sky
-neo 433 Ao, the Dawn Sky
-neo 445 Jin-Gitaxias, Progress Tyrant
-neo 446 Kairi, the Swirling Sky
-neo 453 Blade of the Oni
-neo 456 Junji, the Midnight Sky
-neo 459 Nashi, Moon Sage's Scion
-neo 463 Atsushi, the Blazing Sky
-neo 464 Explosive Singularity
-neo 475 Jugan Defends the Temple // Remnant of the Rising Star
-neo 477 Kodama of the West Tree
-neo 478 Kura, the Boundless Sky
-neo 486 Hidetsugu Consumes All // Vessel of the All-Consuming
-neo 489 The Kami War // O-Kagachi Made Manifest
-neo 495 Spirit-Sister's Call
-nec 1 Chishiro, the Shattered Blade
-nec 2 Kotori, Pilot Prodigy
-nec 3 Kaima, the Fractured Calm
-nec 4 Shorikai, Genesis Engine
-nec 32 Yoshimaru, Ever Faithful
-nec 37 Go-Shintai of Life's Origin
-nec 46 Yoshimaru, Ever Faithful
-nec 66 Go-Shintai of Life's Origin
-nec 73 Chishiro, the Shattered Blade
-nec 74 Kaima, the Fractured Calm
-nec 75 Kotori, Pilot Prodigy
-nec 76 Shorikai, Genesis Engine
+neo 2 https://c1.scryfall.com/file/scryfall-cards/png/front/8/d/8d2c4063-7322-4041-a870-b95598a03e29.png?1643403663 Ao, the Dawn Sky
+neo 42 https://c1.scryfall.com/file/scryfall-cards/png/front/f/a/fab2d8a9-ab4c-4225-a570-22636293c17d.png?1644931244 The Wandering Emperor
+neo 59 https://c1.scryfall.com/file/scryfall-cards/png/front/c/5/c57b4876-5387-4f73-b8e2-8e7bdca8b0bc.png?1644036929 Jin-Gitaxias, Progress Tyrant
+neo 60 https://c1.scryfall.com/file/scryfall-cards/png/front/a/f/af7979d8-21f3-40ba-8a2e-7ebad210e48b.png?1643329332 Kairi, the Swirling Sky
+neo 84 https://c1.scryfall.com/file/scryfall-cards/png/front/2/1/2174d16e-4a78-4d27-b220-1086c40db83e.png?1644862830 Tezzeret, Betrayer of Flesh
+neo 89 https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b6bc3f71-b4ce-4c05-be3c-7a0faad476c3.png?1643846362 Blade of the Oni
+neo 102 https://c1.scryfall.com/file/scryfall-cards/png/front/9/0/9033cf27-d9e6-49b8-8ee1-c1f38c9680b9.png?1643400930 Junji, the Midnight Sky
+neo 114 https://c1.scryfall.com/file/scryfall-cards/png/front/2/8/2893b070-a610-4273-beb2-7609a2da0499.png?1643759792 Nashi, Moon Sage's Scion
+neo 134 https://c1.scryfall.com/file/scryfall-cards/png/front/7/3/73b64c17-8a52-4d9d-a28b-7e0e945be059.png?1643490270 Atsushi, the Blazing Sky
+neo 140 https://c1.scryfall.com/file/scryfall-cards/png/front/e/6/e6cdd822-44a1-4d58-9de4-69fc56eae255.png?1643998245 Explosive Singularity
+neo 194 https://c1.scryfall.com/file/scryfall-cards/png/front/a/2/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27.png?1644088636 Jugan Defends the Temple // Remnant of the Rising Star
+neo 199 https://c1.scryfall.com/file/scryfall-cards/png/front/e/f/ef1e1dff-b559-441d-8df3-b6a418066aca.png?1644088758 Kodama of the West Tree
+neo 200 https://c1.scryfall.com/file/scryfall-cards/png/front/0/6/06b25752-26be-4189-bc8b-828db6f0e612.png?1644000236 Kura, the Boundless Sky
+neo 221 https://c1.scryfall.com/file/scryfall-cards/png/front/8/e/8e910464-329a-4de1-930a-be85b1956676.png?1644088858 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 226 https://c1.scryfall.com/file/scryfall-cards/png/front/2/d/2d35a710-3008-4e27-8afd-6e83329f9917.png?1644862847 Kaito Shizuki
+neo 227 https://c1.scryfall.com/file/scryfall-cards/png/front/3/6/36052532-5028-43a8-9fc4-56221ec867fd.png?1645895905 The Kami War // O-Kagachi Made Manifest
+neo 237 https://c1.scryfall.com/file/scryfall-cards/png/front/f/0/f094735f-5843-4f75-bc90-3e248a061a43.png?1643751033 Spirit-Sister's Call
+neo 238 https://c1.scryfall.com/file/scryfall-cards/png/front/2/2/222a736e-d819-452d-aeda-eb848c4b2302.png?1644862859 Tamiyo, Compleated Sage
+neo 303 https://c1.scryfall.com/file/scryfall-cards/png/front/7/1/71327818-2784-4fde-8e19-ef8677694a5f.png?1646363713 The Wandering Emperor
+neo 304 https://c1.scryfall.com/file/scryfall-cards/png/front/a/b/abc079b5-291d-466e-9f1b-baaf1079637b.png?1646363726 Tezzeret, Betrayer of Flesh
+neo 305 https://c1.scryfall.com/file/scryfall-cards/png/front/e/1/e106e4cc-f3fc-41bf-ab1c-4ae7c1a0521c.png?1646363734 Kaito Shizuki
+neo 306 https://c1.scryfall.com/file/scryfall-cards/png/front/5/8/5898a9c4-c983-4807-af06-18111702ab59.png?1646363755 Tamiyo, Compleated Sage
+neo 307 https://c1.scryfall.com/file/scryfall-cards/png/front/8/8/8855ca31-842e-4962-a5f0-163a3f833784.png?1644526384 Jin-Gitaxias, Progress Tyrant
+neo 308 https://c1.scryfall.com/file/scryfall-cards/png/front/c/e/ce16028f-25d0-4817-b20e-8b390b80ef35.png?1644710080 Tamiyo, Compleated Sage
+neo 316 https://c1.scryfall.com/file/scryfall-cards/png/front/b/9/b92aafa5-9a21-4564-8b33-dab414cd5dca.png?1643320597 The Wandering Emperor
+neo 343 https://c1.scryfall.com/file/scryfall-cards/png/front/7/4/74e4f390-c420-44ec-a703-9a9d3ca6ab2e.png?1643756421 Nashi, Moon Sage's Scion
+neo 350 https://c1.scryfall.com/file/scryfall-cards/png/front/a/e/ae6d5319-1cbb-41fb-83ed-97c9344e3073.png?1639712438 Kaito Shizuki
+neo 359 https://c1.scryfall.com/file/scryfall-cards/png/front/2/9/29f05618-3c06-488e-80d8-3957be7f0a71.png?1643928689 Jugan Defends the Temple // Remnant of the Rising Star
+neo 361 https://c1.scryfall.com/file/scryfall-cards/png/front/8/8/887e6d1e-cb53-4964-ba0b-c15dffa5eb32.png?1643663827 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 362 https://c1.scryfall.com/file/scryfall-cards/png/front/c/f/cfcc7dd5-c6ac-4e66-b197-c010dcfdb397.png?1643326541 The Kami War // O-Kagachi Made Manifest
+neo 371 https://c1.scryfall.com/file/scryfall-cards/png/front/0/1/01985566-275b-4bf0-8667-c81eb95ad70c.png?1643320538 Jin-Gitaxias, Progress Tyrant
+neo 376 https://c1.scryfall.com/file/scryfall-cards/png/front/d/0/d0b71dd5-0bed-4c02-9f92-c52984e2bb78.png?1643320357 Tezzeret, Betrayer of Flesh
+neo 377 https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/46f5c2f4-1690-4392-80d6-d99148bc8b13.png?1643846439 Blade of the Oni
+neo 383 https://c1.scryfall.com/file/scryfall-cards/png/front/a/1/a1d47e98-daae-42f7-9581-1269d57bd16e.png?1643999551 Explosive Singularity
+neo 392 https://c1.scryfall.com/file/scryfall-cards/png/front/b/4/b4a4aeaa-aff7-4299-8030-36eefd5acaf3.png?1643560738 Kodama of the West Tree
+neo 400 https://c1.scryfall.com/file/scryfall-cards/png/front/c/e/ceaefe4b-9750-460a-9993-60a138df80a6.png?1643846938 Spirit-Sister's Call
+neo 406 https://c1.scryfall.com/file/scryfall-cards/png/front/5/d/5d7d1c2d-d3be-4647-a260-15ce85e69eea.png?1647144992 Ao, the Dawn Sky
+neo 408 https://c1.scryfall.com/file/scryfall-cards/png/front/5/1/516dc285-f0f9-4a5c-a7b7-395c1821b42c.png?1647145018 Kairi, the Swirling Sky
+neo 409 https://c1.scryfall.com/file/scryfall-cards/png/front/1/9/19c61476-2105-48f3-8f57-3d0322bdc92e.png?1647145036 Junji, the Midnight Sky
+neo 410 https://c1.scryfall.com/file/scryfall-cards/png/front/e/d/ed997183-24b2-466f-b740-c414ef485a96.png?1647145043 Atsushi, the Blazing Sky
+neo 411 https://c1.scryfall.com/file/scryfall-cards/png/front/0/9/0986e1a1-749d-4f34-9cdf-b347f2041c5c.png?1647145060 Kura, the Boundless Sky
+neo 433 https://c1.scryfall.com/file/scryfall-cards/png/front/0/d/0d726f3f-2920-4de4-b531-5c42006e85af.png?1647481621 Ao, the Dawn Sky
+neo 445 https://c1.scryfall.com/file/scryfall-cards/png/front/7/2/729a8bdc-3246-482b-a0b7-1d071247d218.png?1647567653 Jin-Gitaxias, Progress Tyrant
+neo 446 https://c1.scryfall.com/file/scryfall-cards/png/front/c/3/c3e356fa-eeeb-44a0-a3ba-90f90a855d40.png?1647567674 Kairi, the Swirling Sky
+neo 453 https://c1.scryfall.com/file/scryfall-cards/png/front/4/e/4e9896df-0d5c-4b02-b584-345f4c7cd127.png?1647646611 Blade of the Oni
+neo 456 https://c1.scryfall.com/file/scryfall-cards/png/front/5/2/52f0f499-35d7-4e04-a2fc-d6735f6087d4.png?1647646645 Junji, the Midnight Sky
+neo 459 https://c1.scryfall.com/file/scryfall-cards/png/front/2/a/2a509120-d075-43cc-9422-35b2bf8183aa.png?1647646673 Nashi, Moon Sage's Scion
+neo 463 https://c1.scryfall.com/file/scryfall-cards/png/front/7/5/756ccc1d-e43a-44d6-a722-3e209a164dc5.png?1647650187 Atsushi, the Blazing Sky
+neo 464 https://c1.scryfall.com/file/scryfall-cards/png/front/a/7/a74a2f31-01e6-480b-a722-7a9c972e2a51.png?1647650205 Explosive Singularity
+neo 475 https://c1.scryfall.com/file/scryfall-cards/png/front/d/9/d9d59000-11e0-41ca-9626-9eae22627924.png?1647656993 Jugan Defends the Temple // Remnant of the Rising Star
+neo 477 https://c1.scryfall.com/file/scryfall-cards/png/front/a/3/a33e17d9-fb24-45ef-aba6-292009834dc2.png?1647657043 Kodama of the West Tree
+neo 478 https://c1.scryfall.com/file/scryfall-cards/png/front/d/7/d765ad05-069b-4224-80ed-2f9bdced2dae.png?1647657107 Kura, the Boundless Sky
+neo 486 https://c1.scryfall.com/file/scryfall-cards/png/front/b/6/b6a8ead0-df99-4a55-8f64-99cfc47baa9f.png?1647734990 Hidetsugu Consumes All // Vessel of the All-Consuming
+neo 489 https://c1.scryfall.com/file/scryfall-cards/png/front/6/8/68dfd0ee-64bf-425d-a847-c4a72f84d8aa.png?1647735118 The Kami War // O-Kagachi Made Manifest
+neo 495 https://c1.scryfall.com/file/scryfall-cards/png/front/7/9/79e7b4ab-bc2c-4dd0-9433-6266c86c1c84.png?1647735251 Spirit-Sister's Call
+nec 1 https://c1.scryfall.com/file/scryfall-cards/png/front/b/f/bffa36ac-137d-481c-b1b7-76a88ef15d54.png?1644346882 Chishiro, the Shattered Blade
+nec 2 https://c1.scryfall.com/file/scryfall-cards/png/front/f/e/fea6c1c8-eff9-4b66-b96d-e23016f0bb62.png?1644346891 Kotori, Pilot Prodigy
+nec 3 https://c1.scryfall.com/file/scryfall-cards/png/front/4/6/467033f7-8d59-4b80-8c2e-c36f3ad93438.png?1644346889 Kaima, the Fractured Calm
+nec 4 https://c1.scryfall.com/file/scryfall-cards/png/front/9/6/969ac7dd-f3aa-4888-9ff0-d16a31b5e7a9.png?1644346891 Shorikai, Genesis Engine
+nec 32 https://c1.scryfall.com/file/scryfall-cards/png/front/a/a/aa409269-3698-42a2-8c51-75557b27a6f6.png?1645036326 Yoshimaru, Ever Faithful
+nec 37 https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/9476fe67-d2d3-4835-8ba6-2a17d18cc141.png?1643961551 Go-Shintai of Life's Origin
+nec 46 https://c1.scryfall.com/file/scryfall-cards/png/front/8/4/84dcd364-38c1-4987-a066-1c4d4533912e.png?1643929892 Yoshimaru, Ever Faithful
+nec 66 https://c1.scryfall.com/file/scryfall-cards/png/front/d/7/d761ff73-0717-4ee4-996b-f5547bcf9b2f.png?1643929991 Go-Shintai of Life's Origin
+nec 73 https://c1.scryfall.com/file/scryfall-cards/png/front/e/a/eaacd338-1040-4d61-977e-7c97d0f26724.png?1644346732 Chishiro, the Shattered Blade
+nec 74 https://c1.scryfall.com/file/scryfall-cards/png/front/c/4/c4deb32e-6890-4f93-a580-cf1758ffcd20.png?1644346544 Kaima, the Fractured Calm
+nec 75 https://c1.scryfall.com/file/scryfall-cards/png/front/b/8/b847d395-d8b4-438c-8188-6c3074af1ccd.png?1644346749 Kotori, Pilot Prodigy
+nec 76 https://c1.scryfall.com/file/scryfall-cards/png/front/0/3/0347cf84-42f5-4674-99de-619b0ae51d62.png?1644346567 Shorikai, Genesis Engine

@@ -1,5 +1,6 @@
 # Python script to get Scryfall Assets. Why? Because I already did it and I'm not rewriting it in fucken javascript.
 
+from concurrent.futures.process import _ExceptionWithTraceback
 from locale import setlocale
 import requests
 import shutil
@@ -115,10 +116,13 @@ def filtertime(set, condName = "Filtered", condition = falseReturner):
         parsed = json.loads(f.read())
         for card in parsed:
             if (condition(card)):
-                filtered.append([set, card["collector_number"], card["name"]])
+                try:
+                    filtered.append([set, card["collector_number"], card["name"], card['image_uris']['png']])
+                except: # DFCs (SAGAS)! in the future: change the case
+                    filtered.append([set, card["collector_number"], card["name"], card["card_faces"][0]['image_uris']['png']])
     with open(set + condName + ".txt", 'w') as filehandle:
         # this is giving me trouble. How to write without the final line? ..  Answer : keep it. handle in js
-        filehandle.writelines("%s %s %s\n" % (card[0], card[1], card[2]) for card in filtered)
+        filehandle.writelines("%s %s %s %s\n" % (card[0], card[1], card[3], card[2]) for card in filtered)
     shutil.move(set + condName + '.txt', "SetRolls/" + set + condName + '.txt')
 
 # Filtration functions
@@ -240,6 +244,10 @@ def wildR(card) :
 def wildM(card) :
     return ("mythic" == card['rarity'])
 
+
+#getSetCardsJSON('tneo')
+filtertime("tneo", "All", trueAll)
+exit()
 print("Filters begin")
 filtertime("nec", "ExtendedArt", extendedart) # no non-crackable cards (<77)
 # filtertime("nec", "Showcase", showcase) # does not appear in packs
@@ -248,25 +256,25 @@ filtertime("neo", "ShowcaseUC", showcaseUC)
 filtertime("neo", "SagasUC", sagasUC)
 filtertime("neo", "Common", common)
 filtertime("neo", "Uncommon", uncommon)
-filtertime("neo", "Rare", rare)
 filtertime("neo", "Mythic", mythic)
 filtertime("neo", "Ukiyo", ukiyo)
 filtertime("neo", "Basics", basics)
 
 filtertime("neo", "WCC", wildC)
 filtertime("neo", "WCU", wildU)
-
-exit()
+filtertime("aneo", "Full", trueAll) # art card
 
 # EDITED FILES
 
+filtertime("neo", "Rare", rare) # removed the 4 hidetsugu.
+
 filtertime("neo", "Showcase", showcase) # removed the 4 hidetsugu.
 filtertime("neo", "WCR", wildR) # removed neo417-428 Etcheds; added necWCR to this
-filtertime("neo", "WCM", wildM) # removed neo417-428 Etcheds; added necWCR to this
+filtertime("neo", "WCM", wildM) # removed neo417-428 Etcheds; added necWCM to this
 
 filtertime("nec", "WCR", wildR) # removed non-crackable cards (<77)
 filtertime("nec", "WCM", wildM) # removed non-crackable cards (<77)
 
 filtertime("neo", "Full", trueAll) # combined into neoFoil
-filtertime("aneo", "Full", trueAll) # combined into neoFoil
-filtertime("nec", "Full", trueAll) # removed non-crackable cards (<77)
+
+filtertime("nec", "Full", trueAll) # removed non-crackable cards (<77)png
