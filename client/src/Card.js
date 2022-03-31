@@ -9,15 +9,21 @@ import { ChakraProvider,
   SlideFade,
   Slide,
   Wrap,
-  WrapItem
+  Fade,
+  WrapItem,
+  Skeleton
 } from '@chakra-ui/react'
 
 export default function WrapCard(props) { // Props : position (in pack), link (to png)
-    return (
-        <WrapItem>
-            <SlideFade in={true} offsetY='100px' transition={{ enter: {duration: props.position, delay : 0}}}>
-              <Image mx={0.5} borderRadius="md" maxW="320px" src={props.link} />
-            </SlideFade>
-          </WrapItem>
+    
+  const [loaded, setLoaded] = useState(false);
+
+  
+  return (
+    <WrapItem>
+        <Fade in={true} transition={{ enter: {duration: props.position, delay : 0}}}>
+          <Image mx={0.5} borderRadius="md" maxW="245px" src={props.link} onLoad={() => setLoaded(true)} />
+        </Fade>
+    </WrapItem>  
     )
 }

@@ -46,7 +46,22 @@ function rollArtCard() { // 5% are foilstamped
 } 
 
 function rollFoil() { // Showcase, Borderless, Commander included. Full roll
-    return roll("neoFoil") // UNIFORM ROLL
+    // return roll("neoFoil") // UNIFORM ROLL
+    var seed = Math.random();
+    switch (true) {
+        // fall through the switch downwards, catching each case
+        // distribution on number of uncommon
+        case (seed > 0.979):
+            return roll("neoWCM");
+            break;
+        case (seed > 0.905):
+            return roll("neoWCR");
+            break;
+        case (seed > 0.635):
+            return roll("neoWCU");
+            break;
+    }
+    return roll("neoWCC");
 }
 
 function rollRM() { // Showcase, Borderless included. nonfoil.

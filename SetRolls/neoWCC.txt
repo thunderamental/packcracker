@@ -121,4 +121,3 @@ neo 341 https://c1.scryfall.com/file/scryfall-cards/png/front/f/6/f66aaba3-4a28-
 neo 342 https://c1.scryfall.com/file/scryfall-cards/png/front/3/5/357594c7-a9a6-468d-b262-e5f7d5e35f54.png?1643927028 Mukotai Ambusher
 neo 346 https://c1.scryfall.com/file/scryfall-cards/png/front/8/2/8297592c-3036-434a-9dbb-5f0af804dd13.png?1643844178 Coiling Stalker
 neo 347 https://c1.scryfall.com/file/scryfall-cards/png/front/9/4/94c8e2d5-2706-4137-bfdc-d65f1cd33bda.png?1643702033 Fang of Shigeki
-neo 508 https://c1.scryfall.com/file/scryfall-cards/png/front/9/a/9ae5aecd-f1e3-4a1a-92a7-69235437102d.png?1643330099 Spirited Companion

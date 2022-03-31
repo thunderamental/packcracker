@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './Card.js'
 import { ChakraProvider, 
+  extendTheme,
   Box, 
   Center, 
   Image, 
@@ -11,7 +12,8 @@ import { ChakraProvider,
   Slide,
   Wrap,
   WrapItem,
-  Container
+  Container,
+  Spacer
 } from '@chakra-ui/react';
 import WrapCard from './Card.js';
 
@@ -36,17 +38,16 @@ export function SetBooster(props) {
     var packImgs = [];
     for (let i = 0 ; i < pack[2].length ; i++) {
       packImgs.push(
-        <WrapCard position={3} link={pack[2][i][2]} />
+        <WrapCard position={i/2} link={pack[2][(pack[2].length) - i - 1][2]} />
       )
     }
 
     return (
-      <ChakraProvider>
-        <Center>
-          <Wrap>
+        <Container maxW='container.xl'>
+          <Flex><Box><Spacer /></Box><Spacer /></Flex>
+          <Wrap align="center" justify='center'>
             {packImgs}
           </Wrap>
-        </Center>
-      </ChakraProvider>
+        </Container>
     );
   }

@@ -12,12 +12,29 @@ import { ChakraProvider,
   SlideFade,
   Slide,
   Wrap,
-  WrapItem
+  WrapItem,
+  Stack,
+  VStack
 } from '@chakra-ui/react'
 import { SetBooster } from './setBooster';
+import './navbar.js'
+import WithSubnavigation from './navbar.js';
 
 ReactDOM.render(
-  <SetBooster />,
+  <ChakraProvider>
+    <VStack>
+      <WithSubnavigation />
+      
+      <Image style={{
+              resizeMode: "cover",
+              flex : 1,
+              height: 100,
+              width: 1000
+            }}
+            src={require("./neoSet.png")} />
+      <SetBooster />
+    </VStack>
+  </ChakraProvider>,
   document.getElementById('root')
 );
 
