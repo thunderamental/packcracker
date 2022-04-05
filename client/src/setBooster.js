@@ -26,11 +26,11 @@ export function SetBooster(props) {
       console.log('pack state is: ', pack);
     }, [pack]);
   
-
+    var urls = pack;
     var packImgs = [];
-    for (let i = 0 ; i < pack[2].length ; i++) {
+    for (let i = 0 ; i < urls.length ; i++) {
       packImgs.push(
-        <WrapCard position={i/2} link={pack[2][(pack[2].length) - i - 1][2]} />
+        <WrapCard position={i/2} link={urls[(urls.length) - i - 1][2]} />
       )
     }
 

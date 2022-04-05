@@ -237,7 +237,7 @@ function rollSetBoosterDistribution() {
     
     console.log(extractSet(booster))
     
-    return [packID,booster,extractSet(booster)];
+    return extractSet(booster) // [packID,booster,extractSet(booster)];
 }
 
 function rollDraftBoosterDistribution() {
