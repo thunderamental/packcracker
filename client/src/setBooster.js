@@ -50,7 +50,7 @@ export function SetBooster(props) {
 
     return (
         <Container maxW='container.xl'>
-          <Flex><Box><Spacer />q</Box><Spacer /></Flex>
+          <Flex><Box><Spacer /></Box><Spacer /></Flex>
           <Wrap align="center" justify='center'>
             {packImgs}
           </Wrap>
