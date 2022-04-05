@@ -9,9 +9,11 @@ import {
 } from '@chakra-ui/react';
 import WrapCard from './Card.js';
 
+const axios = require("axios");
+
 export function SetBooster(props) {
     const [pack, setPack] = useState("empty wrapper");
-  
+/* 
     useEffect(() => {
         fetch("http://161.35.10.143:9000/neo/set") // http://localhost: 161.35.10.143:
         .then(response => {response.json()})
@@ -22,6 +24,18 @@ export function SetBooster(props) {
         .then(() => console.log(pack))
       }, []
     );
+*/
+    useEffect(() => {
+      axios.get("http://161.35.10.143:9000/neo/set") // http://localhost: 161.35.10.143:
+        //.then(response => {response.json()})
+        .then((result) => {
+          setPack(result)
+          console.log(result)
+        })
+        .then(() => console.log(pack))
+      }, []
+    );
+
     useEffect(() => {
       console.log('pack state is: ', pack);
     }, [pack]);
