@@ -14,7 +14,7 @@ export function SetBooster(props) {
   
     useEffect(() => {
         fetch("161.35.10.143:9000/neo/set") // http://localhost: 161.35.10.143:
-        .then(response => {console.log(response) ; response.json()})
+        .then(response => {response.json()})
         .then((result) => {
             setPack(result)
             console.log(result)
