@@ -14,6 +14,7 @@ var app = express();
 
 var cors = require('cors')
 app.use(cors()) // enables all cors requests
+app.listen(9000, "0.0.0.0");
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));

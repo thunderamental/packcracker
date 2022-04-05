@@ -1,17 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import './Card.js'
-import { ChakraProvider, 
-  extendTheme,
+import { 
   Box, 
-  Center, 
-  Image, 
   Flex, 
-  Badge, 
-  Text,
-  SlideFade,
-  Slide,
   Wrap,
-  WrapItem,
   Container,
   Spacer
 } from '@chakra-ui/react';
@@ -21,7 +13,7 @@ export function SetBooster(props) {
     const [pack, setPack] = useState("empty wrapper");
   
     useEffect(() => {
-        fetch("https://localhost:9000/neo/set/")
+        fetch("http://localhost:9000/neo/set/")
         .then(response => response.json())
         .then((result) => {
             setPack(result)
