@@ -20,6 +20,7 @@ function testInput() {
 /* GET users listing. */
 
 router.get('/set', function(req, res, next) {
+    res.type('json')
     res.json(rollSetBoosterDistribution());
 });
 
