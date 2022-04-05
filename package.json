@@ -1,0 +1,25 @@
+{
+  "name": "packcracker",
+  "version": "1.0.0",
+  "description": "pack cracking simulator!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "client": "cd client && npm start",
+    "backend": "cd server && nodemon server.js",
+    "dev": "concurrently \"npm run backend\" \"npm run client\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunderamental/packcracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thunderamental/packcracker/issues"
+  },
+  "homepage": "https://github.com/thunderamental/packcracker#readme",
+  "dependencies": {
+    "concurrently": "^7.1.0"
+  }
+}
