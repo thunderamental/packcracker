@@ -18,12 +18,13 @@ function testInput() {
     return array;
 }
 /* GET users listing. */
-router.get('/', function(req, res, next) {
-  res.send(`Kamigawa Neon Dynasty landing page. Here is the parsed input : ${testInput()}`);
-});
 
 router.get('/set', function(req, res, next) {
     res.json(rollSetBoosterDistribution());
+});
+
+router.get('/', function(req, res, next) {
+  res.send(`Kamigawa Neon Dynasty landing page. Here is the parsed input : ${testInput()}`);
 });
 
 router.get('/draft', function(req, res, next) {
