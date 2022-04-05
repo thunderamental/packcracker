@@ -26,7 +26,7 @@ export function SetBooster(props) {
       console.log('pack state is: ', pack);
     }, [pack]);
   
-    var urls = pack;
+    var urls = pack[2];
     var packImgs = [];
     for (let i = 0 ; i < urls.length ; i++) {
       packImgs.push(
